@@ -13,17 +13,6 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-  async redirects() {
-    return [
-      // www → non-www canonical redirect (handled at DNS/Vercel level, but also here as fallback)
-      {
-        source: "/:path*",
-        has: [{ type: "host", value: "www.sunnyislesinsurancefl.com" }],
-        destination: "https://sunnyislesinsurancefl.com/:path*",
-        permanent: true,
-      },
-    ];
-  },
   async headers() {
     return [
       {
