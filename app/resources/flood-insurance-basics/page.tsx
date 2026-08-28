@@ -84,9 +84,9 @@ export default function FloodInsuranceBasicsArticle() {
                 The short answer is: standard homeowners insurance policies generally do <strong className="text-navy-900">not</strong> cover flooding from external water sources. This distinction is important for every property owner in Florida — and particularly relevant in coastal communities like Sunny Isles Beach.
               </p>
 
-              <h2 className="text-2xl font-bold text-navy-900 mt-8">What "Flooding" Means in Insurance Terms</h2>
+              <h2 className="text-2xl font-bold text-navy-900 mt-8">What &ldquo;Flooding&rdquo; Means in Insurance Terms</h2>
               <p>
-                In insurance, "flooding" typically refers to water that enters a property from external sources — overflowing bodies of water, storm surge, excessive rainfall accumulating on the ground, and similar events. This type of loss is explicitly excluded from most standard homeowners and condo insurance policies.
+                In insurance, &ldquo;flooding&rdquo; typically refers to water that enters a property from external sources — overflowing bodies of water, storm surge, excessive rainfall accumulating on the ground, and similar events. This type of loss is explicitly excluded from most standard homeowners and condo insurance policies.
               </p>
               <p>
                 Water damage from internal sources — a burst pipe, an overflowing appliance, a roof leak — is treated differently and may be covered under certain conditions in a standard policy. But when water enters from outside, a separate flood insurance policy is typically required.
@@ -150,6 +150,7 @@ export default function FloodInsuranceBasicsArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 { label: "Flood Insurance in Sunny Isles Beach", href: "/flood-insurance", desc: "Explore flood insurance options and request a quote." },
+                { label: "Does Home Insurance Cover Hurricane Damage?", href: "/resources/hurricane-damage-home-insurance-sunny-isles", desc: "Wind vs. storm surge vs. flood for Sunny Isles Beach properties." },
                 { label: "Condo Insurance in Florida", href: "/resources/condo-insurance-florida", desc: "What HO-6 insurance covers for condo owners." },
                 { label: "Homeowners Insurance", href: "/homeowners-insurance", desc: "Property coverage for South Florida homeowners." },
                 { label: "Sunny Isles Beach Insurance Guide", href: "/sunny-isles-beach-insurance", desc: "All coverage options for Sunny Isles Beach residents." },

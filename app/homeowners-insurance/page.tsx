@@ -119,6 +119,16 @@ export default function HomeownersInsurancePage() {
             terms, and availability vary by insurer and individual circumstances.
             This information is for general educational purposes only.
           </div>
+
+          <p className="mt-6 text-sm text-navy-500">
+            Related reading:{" "}
+            <Link
+              href="/resources/hurricane-damage-home-insurance-sunny-isles"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Does home insurance cover hurricane damage in Sunny Isles Beach?
+            </Link>
+          </p>
         </div>
       </section>
 

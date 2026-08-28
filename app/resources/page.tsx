@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — condo coverage, flood risk, auto insurance PIP and more. From Sunny Isles Insurance.",
+    "Educational guides and answers to common Florida insurance questions — hurricane vs. flood coverage, condo HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,14 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "hurricane-damage-home-insurance-sunny-isles",
+    title: "Does Home Insurance Cover Hurricane Damage in Sunny Isles Beach?",
+    description:
+      "Wind, storm surge, and flood are often three different insurance conversations. A 2026 guide for Sunny Isles Beach homeowners and condo owners on hurricane deductibles, Miami-Dade's HVHZ, and what to review before peak season.",
+    category: "Homeowners Insurance",
+    readTime: "8 min read",
+  },
   {
     slug: "condo-insurance-florida",
     title: "What Does Condo Insurance Cover in Florida?",

@@ -316,6 +316,11 @@ export default function CondoInsuranceFloridaArticle() {
                   desc: "Explore HO-6 coverage options and request a quote.",
                 },
                 {
+                  label: "Does Home Insurance Cover Hurricane Damage?",
+                  href: "/resources/hurricane-damage-home-insurance-sunny-isles",
+                  desc: "Wind, deductibles, and flood for Sunny Isles Beach condos and homes.",
+                },
+                {
                   label: "Flood Insurance for South Florida",
                   href: "/flood-insurance",
                   desc: "Understand flood coverage for coastal properties.",
