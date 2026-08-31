@@ -234,7 +234,7 @@ export default function SunnyIslesBeachInsurancePage() {
                 title: "Auto Insurance",
                 href: "/auto-insurance",
                 cta: "Explore Auto Insurance",
-                body: "Auto insurance for drivers navigating Sunny Isles Beach, Collins Avenue, and South Florida roads. Coverage options include liability, PIP, collision and comprehensive.",
+                body: "Auto insurance for drivers navigating Sunny Isles Beach, Collins Avenue, and South Florida roads. Coverage options include liability, PIP, collision and comprehensive. See our 2026 local auto guide for how rate cuts and still-required PIP change the shopping conversation.",
               },
               {
                 title: "Homeowners Insurance",
@@ -303,6 +303,23 @@ export default function SunnyIslesBeachInsurancePage() {
               </div>
             ))}
           </div>
+
+          <p className="mt-8 text-sm text-navy-500">
+            Related reading:{" "}
+            <Link
+              href="/resources/best-auto-insurance-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Best auto insurance options in Sunny Isles Beach in 2026
+            </Link>
+            {" · "}
+            <Link
+              href="/resources/hurricane-damage-home-insurance-sunny-isles"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Does home insurance cover hurricane damage?
+            </Link>
+          </p>
         </div>
       </section>
 

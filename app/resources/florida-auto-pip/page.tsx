@@ -144,6 +144,7 @@ export default function FloridaAutoPIPArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 { label: "Auto Insurance in Sunny Isles Beach", href: "/auto-insurance", desc: "Explore auto coverage options and request a quote." },
+                { label: "Best Auto Insurance Options in Sunny Isles Beach in 2026", href: "/resources/best-auto-insurance-sunny-isles-beach-2026", desc: "Rate relief, PIP still in force, and how to compare coverage locally." },
                 { label: "Condo Insurance in Florida", href: "/resources/condo-insurance-florida", desc: "What HO-6 insurance covers for condo owners." },
                 { label: "Sunny Isles Beach Insurance Guide", href: "/sunny-isles-beach-insurance", desc: "All coverage options for Sunny Isles Beach." },
                 { label: "Back to Resources", href: "/resources", desc: "More educational insurance articles." },

@@ -135,6 +135,23 @@ export default function AutoInsurancePage() {
             circumstances. The information above is for general educational
             purposes only and does not represent a guarantee of coverage.
           </div>
+
+          <p className="mt-6 text-sm text-navy-500">
+            Related reading:{" "}
+            <Link
+              href="/resources/best-auto-insurance-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Best auto insurance options in Sunny Isles Beach in 2026
+            </Link>
+            {" · "}
+            <Link
+              href="/resources/florida-auto-pip"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Understanding Florida PIP
+            </Link>
+          </p>
         </div>
       </section>
 

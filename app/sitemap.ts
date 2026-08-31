@@ -29,6 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/resources`, lastModified: now, changeFrequency: "weekly", priority: 0.75 },
 
     // Resource articles
+    { url: `${base}/resources/best-auto-insurance-sunny-isles-beach-2026`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/resources/hurricane-damage-home-insurance-sunny-isles`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/resources/condo-insurance-florida`, lastModified: now, changeFrequency: "monthly", priority: 0.75 },
     { url: `${base}/resources/flood-insurance-basics`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
