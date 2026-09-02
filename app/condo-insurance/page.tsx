@@ -95,7 +95,16 @@ export default function CondoInsurancePage() {
                 An HO-6 condo insurance policy is designed to address that gap.
                 Sunny Isles Insurance helps Sunny Isles Beach condo owners
                 understand what their association covers and what additional
-                protection may make sense for their situation.
+                protection may make sense for their situation. For 2026 rate
+                context — personal-line HO-6 cuts versus association
+                master-policy increases — see{" "}
+                <Link
+                  href="/resources/why-florida-condo-insurance-is-getting-more-expensive"
+                  className="text-ocean-500 hover:underline"
+                >
+                  why Florida condo insurance is getting more expensive
+                </Link>
+                .
               </p>
             </div>
             <div className="space-y-4">
@@ -215,8 +224,9 @@ export default function CondoInsurancePage() {
               </p>
               <div className="space-y-3">
                 {[
+                  { label: "Why Condo Insurance Costs Rose in 2026", href: "/resources/why-florida-condo-insurance-is-getting-more-expensive" },
+                  { label: "What Florida Condo Insurance Covers", href: "/resources/condo-insurance-florida" },
                   { label: "Flood Insurance in Sunny Isles", href: "/flood-insurance" },
-                  { label: "Renters Insurance", href: "/renters-insurance" },
                   { label: "Homeowners Insurance", href: "/homeowners-insurance" },
                   { label: "Sunny Isles Beach Insurance Guide", href: "/sunny-isles-beach-insurance" },
                 ].map((link) => (

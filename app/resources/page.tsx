@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — 2026 auto options, hurricane vs. flood coverage, condo HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,14 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "why-florida-condo-insurance-is-getting-more-expensive",
+    title: "Why Florida Condo Insurance Is Getting More Expensive",
+    description:
+      "Citizens cut many personal-line rates in 2026, but condo association master policies went up. How Sunny Isles Beach owners should read HO-6 relief, July 1 commercial-residential increases, and SIRS assessments.",
+    category: "Condo Insurance",
+    readTime: "9 min read",
+  },
   {
     slug: "best-auto-insurance-sunny-isles-beach-2026",
     title: "Best Auto Insurance Options in Sunny Isles Beach in 2026",
