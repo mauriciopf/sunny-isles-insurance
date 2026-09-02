@@ -483,6 +483,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                   desc: "How HO-6 works with an association master policy.",
                 },
                 {
+                  label: "Why Florida Condo Insurance Is Getting More Expensive",
+                  href: "/resources/why-florida-condo-insurance-is-getting-more-expensive",
+                  desc: "2026 master-policy rate increases vs. HO-6 personal-line cuts.",
+                },
+                {
                   label: "Sunny Isles Beach Insurance Guide",
                   href: "/sunny-isles-beach-insurance",
                   desc: "Local coverage options for the barrier-island community.",

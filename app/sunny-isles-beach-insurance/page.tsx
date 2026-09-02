@@ -307,6 +307,13 @@ export default function SunnyIslesBeachInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/why-florida-condo-insurance-is-getting-more-expensive"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Why Florida condo insurance is getting more expensive
+            </Link>
+            {" · "}
+            <Link
               href="/resources/best-auto-insurance-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >
