@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,14 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "citizens-takeout-offer-sunny-isles-beach-2026",
+    title: "Got a Citizens Takeout Letter in Sunny Isles Beach? What It Means for Your HO-6 in 2026",
+    description:
+      "The October 20, 2026 Citizens assumption is next — choice deadline October 5. How the 20% takeout rule works for coastal condo owners, and what to compare besides the estimated premium.",
+    category: "Condo Insurance",
+    readTime: "9 min read",
+  },
   {
     slug: "why-florida-condo-insurance-is-getting-more-expensive",
     title: "Why Florida Condo Insurance Is Getting More Expensive",

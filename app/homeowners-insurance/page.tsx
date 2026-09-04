@@ -128,6 +128,13 @@ export default function HomeownersInsurancePage() {
             >
               Does home insurance cover hurricane damage in Sunny Isles Beach?
             </Link>
+            {" · "}
+            <Link
+              href="/resources/citizens-takeout-offer-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Citizens takeout offers in Sunny Isles Beach in 2026
+            </Link>
           </p>
         </div>
       </section>

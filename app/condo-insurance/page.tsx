@@ -104,6 +104,14 @@ export default function CondoInsurancePage() {
                 >
                   why Florida condo insurance is getting more expensive
                 </Link>
+                . If Citizens mailed a 2026 depopulation packet,{" "}
+                <Link
+                  href="/resources/citizens-takeout-offer-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  read how takeout offers work for Sunny Isles Beach HO-6
+                  policies
+                </Link>
                 .
               </p>
             </div>
@@ -224,6 +232,7 @@ export default function CondoInsurancePage() {
               </p>
               <div className="space-y-3">
                 {[
+                  { label: "Citizens Takeout Letters in 2026", href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026" },
                   { label: "Why Condo Insurance Costs Rose in 2026", href: "/resources/why-florida-condo-insurance-is-getting-more-expensive" },
                   { label: "What Florida Condo Insurance Covers", href: "/resources/condo-insurance-florida" },
                   { label: "Flood Insurance in Sunny Isles", href: "/flood-insurance" },

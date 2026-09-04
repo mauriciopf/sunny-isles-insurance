@@ -307,6 +307,13 @@ export default function SunnyIslesBeachInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/citizens-takeout-offer-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Got a Citizens takeout letter in Sunny Isles Beach?
+            </Link>
+            {" · "}
+            <Link
               href="/resources/why-florida-condo-insurance-is-getting-more-expensive"
               className="text-ocean-500 hover:underline font-medium"
             >

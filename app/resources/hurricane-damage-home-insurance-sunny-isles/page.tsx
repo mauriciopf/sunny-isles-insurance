@@ -478,6 +478,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                   desc: "Why flood and wind are treated as different losses.",
                 },
                 {
+                  label: "Got a Citizens Takeout Letter?",
+                  href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026",
+                  desc: "October 2026 assumption dates and how a takeout can change hurricane deductibles.",
+                },
+                {
                   label: "Condo Insurance in Florida",
                   href: "/resources/condo-insurance-florida",
                   desc: "How HO-6 works with an association master policy.",

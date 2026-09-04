@@ -517,6 +517,11 @@ export default function WhyFloridaCondoInsuranceCostsArticle() {
                   desc: "HO-6 coverage that sits beside the association master policy.",
                 },
                 {
+                  label: "Got a Citizens Takeout Letter?",
+                  href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026",
+                  desc: "October 20, 2026 assumption, the 20% rule, and HO-6 coverage to compare.",
+                },
+                {
                   label: "What Does Condo Insurance Cover in Florida?",
                   href: "/resources/condo-insurance-florida",
                   desc: "HO-6 vs. master policy: belongings, upgrades, and liability.",

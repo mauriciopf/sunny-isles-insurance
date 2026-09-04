@@ -316,6 +316,11 @@ export default function CondoInsuranceFloridaArticle() {
                   desc: "Explore HO-6 coverage options and request a quote.",
                 },
                 {
+                  label: "Got a Citizens Takeout Letter?",
+                  href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026",
+                  desc: "2026 depopulation deadlines and the 20% rule for coastal HO-6 policies.",
+                },
+                {
                   label: "Why Florida Condo Insurance Is Getting More Expensive",
                   href: "/resources/why-florida-condo-insurance-is-getting-more-expensive",
                   desc: "2026 Citizens personal-line cuts vs. association master-policy increases.",
