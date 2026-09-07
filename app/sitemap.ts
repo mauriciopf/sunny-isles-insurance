@@ -29,6 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/resources`, lastModified: now, changeFrequency: "weekly", priority: 0.75 },
 
     // Resource articles
+    { url: `${base}/resources/wind-mitigation-credits-sunny-isles-beach-2026`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/resources/citizens-takeout-offer-sunny-isles-beach-2026`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/resources/why-florida-condo-insurance-is-getting-more-expensive`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/resources/best-auto-insurance-sunny-isles-beach-2026`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },

@@ -527,6 +527,11 @@ export default function WhyFloridaCondoInsuranceCostsArticle() {
                   desc: "HO-6 vs. master policy: belongings, upgrades, and liability.",
                 },
                 {
+                  label: "Wind Mitigation Credits in Sunny Isles Beach (2026)",
+                  href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026",
+                  desc: "July 1 HO-6 credit tables and which inspection form a high-rise uses.",
+                },
+                {
                   label: "Does Home Insurance Cover Hurricane Damage?",
                   href: "/resources/hurricane-damage-home-insurance-sunny-isles",
                   desc: "Wind, surge, flood, and hurricane deductibles locally.",

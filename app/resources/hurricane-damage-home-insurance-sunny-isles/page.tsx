@@ -280,7 +280,16 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                 Before a watch is posted for Miami-Dade, it is worth knowing
                 the dollar amount on your declarations page and whether you
                 could fund it from savings. That number is a real obligation the
-                moment a covered hurricane loss occurs.
+                moment a covered hurricane loss occurs. Documented opening
+                protection and roof features can still change the wind premium
+                — see{" "}
+                <Link
+                  href="/resources/wind-mitigation-credits-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  how 2026 wind mitigation credits work in Sunny Isles Beach
+                </Link>
+                — but they do not shrink a percentage hurricane deductible.
               </p>
 
               <h2 className="text-2xl font-bold text-navy-900 mt-8">
@@ -471,6 +480,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                   label: "Flood Insurance for South Florida",
                   href: "/flood-insurance",
                   desc: "Storm surge and flood are usually a separate policy.",
+                },
+                {
+                  label: "Wind Mitigation Credits in Sunny Isles Beach (2026)",
+                  href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026",
+                  desc: "April 2026 inspection form, July 1 HO-6 credit tables, and the 15-year roof-age rule.",
                 },
                 {
                   label: "Does Homeowners Insurance Cover Flooding?",

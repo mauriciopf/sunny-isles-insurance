@@ -56,6 +56,22 @@ export default function RentersInsurancePage() {
               </div>
             ))}
           </div>
+          <p className="mt-8 text-sm text-navy-500">
+            Related reading:{" "}
+            <Link
+              href="/resources/wind-mitigation-credits-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Wind mitigation credits for Sunny Isles Beach renters and owners in 2026
+            </Link>
+            {" · "}
+            <Link
+              href="/resources/flood-insurance-basics"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Does homeowners insurance cover flooding in Florida?
+            </Link>
+          </p>
         </div>
       </section>
 

@@ -590,6 +590,11 @@ export default function CitizensTakeoutSunnyIslesArticle() {
                   desc: "HO-6 coverage that sits beside the association master policy.",
                 },
                 {
+                  label: "Wind Mitigation Credits in Sunny Isles Beach (2026)",
+                  href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026",
+                  desc: "Which inspection form a Collins Avenue tower uses, and how July 1 HO-6 tables changed.",
+                },
+                {
                   label: "Why Florida Condo Insurance Is Getting More Expensive",
                   href: "/resources/why-florida-condo-insurance-is-getting-more-expensive",
                   desc: "2026 HO-6 rate cuts vs. association master-policy increases.",

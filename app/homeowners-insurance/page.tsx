@@ -123,6 +123,13 @@ export default function HomeownersInsurancePage() {
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/wind-mitigation-credits-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Wind mitigation credits and roof age in Sunny Isles Beach in 2026
+            </Link>
+            {" · "}
+            <Link
               href="/resources/hurricane-damage-home-insurance-sunny-isles"
               className="text-ocean-500 hover:underline font-medium"
             >

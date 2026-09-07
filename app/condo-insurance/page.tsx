@@ -112,6 +112,14 @@ export default function CondoInsurancePage() {
                   read how takeout offers work for Sunny Isles Beach HO-6
                   policies
                 </Link>
+                . For the July 1 HO-6 wind-credit tables and which inspection
+                form a high-rise uses, see{" "}
+                <Link
+                  href="/resources/wind-mitigation-credits-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  wind mitigation credits in Sunny Isles Beach in 2026
+                </Link>
                 .
               </p>
             </div>
@@ -232,6 +240,7 @@ export default function CondoInsurancePage() {
               </p>
               <div className="space-y-3">
                 {[
+                  { label: "Wind Mitigation Credits in 2026", href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026" },
                   { label: "Citizens Takeout Letters in 2026", href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026" },
                   { label: "Why Condo Insurance Costs Rose in 2026", href: "/resources/why-florida-condo-insurance-is-getting-more-expensive" },
                   { label: "What Florida Condo Insurance Covers", href: "/resources/condo-insurance-florida" },

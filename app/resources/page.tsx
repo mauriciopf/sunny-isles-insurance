@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,15 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "wind-mitigation-credits-sunny-isles-beach-2026",
+    title:
+      "Wind Mitigation Credits in Sunny Isles Beach in 2026: New Form, Roof Age, and HVHZ Rules",
+    description:
+      "Florida’s OIR-B1-1802 form changed April 1, 2026, and Citizens revised HO-4/HO-6 credit tables July 1. How Miami-Dade HVHZ homes and Collins Avenue condos should document inspections — and what the 15-year roof-age rule still does.",
+    category: "Homeowners Insurance",
+    readTime: "9 min read",
+  },
   {
     slug: "citizens-takeout-offer-sunny-isles-beach-2026",
     title: "Got a Citizens Takeout Letter in Sunny Isles Beach? What It Means for Your HO-6 in 2026",

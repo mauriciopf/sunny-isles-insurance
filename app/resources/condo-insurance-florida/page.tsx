@@ -326,6 +326,11 @@ export default function CondoInsuranceFloridaArticle() {
                   desc: "2026 Citizens personal-line cuts vs. association master-policy increases.",
                 },
                 {
+                  label: "Wind Mitigation Credits in Sunny Isles Beach (2026)",
+                  href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026",
+                  desc: "MIT-BT forms for towers four stories and up, plus July 1 HO-6 credit tables.",
+                },
+                {
                   label: "Does Home Insurance Cover Hurricane Damage?",
                   href: "/resources/hurricane-damage-home-insurance-sunny-isles",
                   desc: "Wind, deductibles, and flood for Sunny Isles Beach condos and homes.",
