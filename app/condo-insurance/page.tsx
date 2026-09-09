@@ -244,6 +244,7 @@ export default function CondoInsurancePage() {
                   { label: "Citizens Takeout Letters in 2026", href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026" },
                   { label: "Why Condo Insurance Costs Rose in 2026", href: "/resources/why-florida-condo-insurance-is-getting-more-expensive" },
                   { label: "What Florida Condo Insurance Covers", href: "/resources/condo-insurance-florida" },
+                  { label: "Renters Insurance in Sunny Isles Beach (2026)", href: "/resources/renters-insurance-sunny-isles-beach-2026" },
                   { label: "Flood Insurance in Sunny Isles", href: "/flood-insurance" },
                   { label: "Homeowners Insurance", href: "/homeowners-insurance" },
                   { label: "Sunny Isles Beach Insurance Guide", href: "/sunny-isles-beach-insurance" },

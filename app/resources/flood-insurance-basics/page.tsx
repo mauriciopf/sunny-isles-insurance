@@ -150,6 +150,7 @@ export default function FloodInsuranceBasicsArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 { label: "Flood Insurance in Sunny Isles Beach", href: "/flood-insurance", desc: "Explore flood insurance options and request a quote." },
+                { label: "Renters Insurance in Sunny Isles Beach (2026)", href: "/resources/renters-insurance-sunny-isles-beach-2026", desc: "HO-4 vs. contents-only flood, hurricane deductibles, and lease rules for 33160 tenants." },
                 { label: "Does Home Insurance Cover Hurricane Damage?", href: "/resources/hurricane-damage-home-insurance-sunny-isles", desc: "Wind vs. storm surge vs. flood for Sunny Isles Beach properties." },
                 { label: "Wind Mitigation Credits in Sunny Isles Beach (2026)", href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026", desc: "How documented opening protection and roof features change the wind premium — not flood." },
                 { label: "Condo Insurance in Florida", href: "/resources/condo-insurance-florida", desc: "What HO-6 insurance covers for condo owners." },

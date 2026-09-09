@@ -492,6 +492,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                   desc: "Why flood and wind are treated as different losses.",
                 },
                 {
+                  label: "Renters Insurance in Sunny Isles Beach (2026)",
+                  href: "/resources/renters-insurance-sunny-isles-beach-2026",
+                  desc: "HO-4 wind vs. contents flood, and hurricane deductibles on a tenant form.",
+                },
+                {
                   label: "Got a Citizens Takeout Letter?",
                   href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026",
                   desc: "October 2026 assumption dates and how a takeout can change hurricane deductibles.",

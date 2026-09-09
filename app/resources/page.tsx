@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,15 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "renters-insurance-sunny-isles-beach-2026",
+    title:
+      "Renters Insurance in Sunny Isles Beach in 2026: HO-4, Contents Flood, and Hurricane Deductibles",
+    description:
+      "Peak hurricane season is quiet so far in 2026 — which is the NFIP waiting-period window. How Sunny Isles Beach tenants should read HO-4 coverage, contents-only flood, hurricane deductibles, and lease additional-insured rules.",
+    category: "Renters Insurance",
+    readTime: "9 min read",
+  },
   {
     slug: "wind-mitigation-credits-sunny-isles-beach-2026",
     title:
