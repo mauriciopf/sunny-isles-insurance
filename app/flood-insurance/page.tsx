@@ -77,6 +77,30 @@ export default function FloodInsurancePage() {
           <div className="bg-ocean-50 border border-ocean-200 rounded-2xl p-6 text-sm text-navy-700">
             <strong className="text-navy-900">Important:</strong> Flood insurance availability, terms and pricing vary significantly. This information is for general educational purposes only. Contact us to discuss your specific situation.
           </div>
+
+          <p className="mt-8 text-sm text-navy-500">
+            Related reading:{" "}
+            <Link
+              href="/resources/renters-insurance-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Renters insurance, contents flood, and hurricane deductibles in Sunny Isles Beach
+            </Link>
+            {" · "}
+            <Link
+              href="/resources/flood-insurance-basics"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Does homeowners insurance cover flooding in Florida?
+            </Link>
+            {" · "}
+            <Link
+              href="/resources/hurricane-damage-home-insurance-sunny-isles"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Does home insurance cover hurricane damage?
+            </Link>
+          </p>
         </div>
       </section>
 

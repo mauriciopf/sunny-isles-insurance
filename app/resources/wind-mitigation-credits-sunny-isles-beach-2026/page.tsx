@@ -681,6 +681,11 @@ export default function WindMitigationSunnyIslesArticle() {
                   desc: "2026 HO-6 rate cuts vs. association master-policy increases.",
                 },
                 {
+                  label: "Renters Insurance in Sunny Isles Beach (2026)",
+                  href: "/resources/renters-insurance-sunny-isles-beach-2026",
+                  desc: "HO-4 coverage, contents flood, and how July 1 wind credits show up for tenants.",
+                },
+                {
                   label: "Renters Insurance in Sunny Isles Beach",
                   href: "/renters-insurance",
                   desc: "HO-4 wind credits were part of Citizens’ July 1 table update.",

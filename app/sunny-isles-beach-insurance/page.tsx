@@ -307,6 +307,13 @@ export default function SunnyIslesBeachInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/renters-insurance-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Renters insurance in Sunny Isles Beach in 2026
+            </Link>
+            {" · "}
+            <Link
               href="/resources/wind-mitigation-credits-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >
