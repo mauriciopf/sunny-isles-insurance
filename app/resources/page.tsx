@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,15 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "citizens-flood-mandate-sunny-isles-beach-2026",
+    title:
+      "Citizens Flood Insurance Mandate in Sunny Isles Beach in 2026: The $400k Rule and the 2027 Deadline",
+    description:
+      "Citizens already requires flood for $400k+ Coverage A homes — including Zone X. HO-6 condos stay exempt. How Sunny Isles Beach homeowners should use a record-quiet 2026 peak, NFIP’s Dec. 11 extension, and the January 1, 2027 remaining phase-in.",
+    category: "Flood Insurance",
+    readTime: "9 min read",
+  },
   {
     slug: "renters-insurance-sunny-isles-beach-2026",
     title:

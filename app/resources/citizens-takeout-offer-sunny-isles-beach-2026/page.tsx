@@ -615,6 +615,11 @@ export default function CitizensTakeoutSunnyIslesArticle() {
                   desc: "Takeout rules also apply to house policies in 33160.",
                 },
                 {
+                  label: "Citizens Flood Mandate in Sunny Isles Beach (2026)",
+                  href: "/resources/citizens-flood-mandate-sunny-isles-beach-2026",
+                  desc: "A takeout does not replace CIT FW01 or a flood policy already required on $400k+ homes.",
+                },
+                {
                   label: "Request a Condo Quote",
                   href: "/quote?type=condo",
                   desc: "Review HO-6 limits and loss assessment before a takeout deadline.",

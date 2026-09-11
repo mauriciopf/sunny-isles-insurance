@@ -120,6 +120,15 @@ export default function CondoInsurancePage() {
                 >
                   wind mitigation credits in Sunny Isles Beach in 2026
                 </Link>
+                . Citizens currently exempts HO-6 unit-owner policies from its
+                statutory flood mandate — that is not the same as surge
+                coverage. See{" "}
+                <Link
+                  href="/resources/citizens-flood-mandate-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  how the 2026 $400k flood rule and the 2027 deadline work
+                </Link>
                 .
               </p>
             </div>
