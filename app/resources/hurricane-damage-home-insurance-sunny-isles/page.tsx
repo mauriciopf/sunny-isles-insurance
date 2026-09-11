@@ -492,6 +492,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                   desc: "Why flood and wind are treated as different losses.",
                 },
                 {
+                  label: "Citizens Flood Mandate in Sunny Isles Beach (2026)",
+                  href: "/resources/citizens-flood-mandate-sunny-isles-beach-2026",
+                  desc: "The $400k Coverage A flood rule, the 2027 phase-in, and why HO-6 is still exempt.",
+                },
+                {
                   label: "Renters Insurance in Sunny Isles Beach (2026)",
                   href: "/resources/renters-insurance-sunny-isles-beach-2026",
                   desc: "HO-4 wind vs. contents flood, and hurricane deductibles on a tenant form.",

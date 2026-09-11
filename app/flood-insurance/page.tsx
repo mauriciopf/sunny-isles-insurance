@@ -81,6 +81,13 @@ export default function FloodInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/citizens-flood-mandate-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Citizens flood mandate: the $400k rule and the 2027 deadline
+            </Link>
+            {" · "}
+            <Link
               href="/resources/renters-insurance-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

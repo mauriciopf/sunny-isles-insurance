@@ -671,6 +671,11 @@ export default function WindMitigationSunnyIslesArticle() {
                   desc: "Why flood and wind are treated as different losses.",
                 },
                 {
+                  label: "Citizens Flood Mandate in Sunny Isles Beach (2026)",
+                  href: "/resources/citizens-flood-mandate-sunny-isles-beach-2026",
+                  desc: "Wind credits do not satisfy Citizens’ $400k flood requirement.",
+                },
+                {
                   label: "Got a Citizens Takeout Letter?",
                   href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026",
                   desc: "October 2026 assumption dates and how a takeout can change wind credits.",

@@ -546,6 +546,11 @@ export default function RentersInsuranceSunnyIslesArticle() {
                   desc: "Why flood is a separate policy from wind and HO-4.",
                 },
                 {
+                  label: "Citizens Flood Mandate in Sunny Isles Beach (2026)",
+                  href: "/resources/citizens-flood-mandate-sunny-isles-beach-2026",
+                  desc: "HO-4 is still exempt; $400k+ homeowners policies are already in the mandate.",
+                },
+                {
                   label: "Does Home Insurance Cover Hurricane Damage?",
                   href: "/resources/hurricane-damage-home-insurance-sunny-isles",
                   desc: "Wind, surge, and flood for Sunny Isles Beach properties.",
