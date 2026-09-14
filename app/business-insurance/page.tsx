@@ -61,6 +61,30 @@ export default function BusinessInsurancePage() {
           <div className="mt-8 bg-navy-50 border border-navy-100 rounded-2xl p-6 text-sm text-navy-600">
             <strong className="text-navy-800">Note:</strong> Coverage availability, eligibility, and terms vary by insurer, industry, and individual circumstances. This information is for general educational purposes only.
           </div>
+
+          <p className="mt-8 text-sm text-navy-500">
+            Related reading:{" "}
+            <Link
+              href="/resources/collins-avenue-business-insurance-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Business insurance on Collins Avenue in Sunny Isles Beach in 2026
+            </Link>
+            {" · "}
+            <Link
+              href="/resources/flood-insurance-basics"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Does homeowners insurance cover flooding in Florida?
+            </Link>
+            {" · "}
+            <Link
+              href="/resources/hurricane-damage-home-insurance-sunny-isles"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Does home insurance cover hurricane damage?
+            </Link>
+          </p>
         </div>
       </section>
 

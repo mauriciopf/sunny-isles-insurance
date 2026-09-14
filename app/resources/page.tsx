@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,15 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "collins-avenue-business-insurance-sunny-isles-beach-2026",
+    title:
+      "Business Insurance on Collins Avenue in Sunny Isles Beach in 2026: BOP, Flood, and Liquor Liability",
+    description:
+      "A record-quiet Atlantic peak does not cover a ground-floor storefront. What a BOP includes — and why flood, liquor liability, and workers’ compensation sit outside it — for Collins Avenue businesses in ZIP 33160.",
+    category: "Business Insurance",
+    readTime: "9 min read",
+  },
   {
     slug: "citizens-flood-mandate-sunny-isles-beach-2026",
     title:

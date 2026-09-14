@@ -307,6 +307,13 @@ export default function SunnyIslesBeachInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/collins-avenue-business-insurance-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Business insurance on Collins Avenue in Sunny Isles Beach in 2026
+            </Link>
+            {" · "}
+            <Link
               href="/resources/citizens-flood-mandate-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

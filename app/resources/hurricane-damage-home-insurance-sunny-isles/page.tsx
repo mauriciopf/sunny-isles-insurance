@@ -492,6 +492,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                   desc: "Why flood and wind are treated as different losses.",
                 },
                 {
+                  label: "Collins Avenue Business Insurance (2026)",
+                  href: "/resources/collins-avenue-business-insurance-sunny-isles-beach-2026",
+                  desc: "Storefront flood, BOP gaps, and liquor liability on the commercial strip.",
+                },
+                {
                   label: "Citizens Flood Mandate in Sunny Isles Beach (2026)",
                   href: "/resources/citizens-flood-mandate-sunny-isles-beach-2026",
                   desc: "The $400k Coverage A flood rule, the 2027 phase-in, and why HO-6 is still exempt.",
