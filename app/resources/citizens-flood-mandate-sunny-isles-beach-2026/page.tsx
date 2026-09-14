@@ -521,6 +521,11 @@ export default function CitizensFloodMandateSunnyIslesArticle() {
                   desc: "NFIP and private flood options for coastal properties.",
                 },
                 {
+                  label: "Collins Avenue Business Insurance (2026)",
+                  href: "/resources/collins-avenue-business-insurance-sunny-isles-beach-2026",
+                  desc: "Commercial flood is a storefront decision — not the Citizens $400k homeowners rule.",
+                },
+                {
                   label: "Homeowners Insurance in Sunny Isles Beach",
                   href: "/homeowners-insurance",
                   desc: "Dwelling, wind, and liability coverage for South Florida homes.",

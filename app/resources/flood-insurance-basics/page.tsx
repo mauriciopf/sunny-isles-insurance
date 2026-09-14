@@ -150,6 +150,7 @@ export default function FloodInsuranceBasicsArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 { label: "Flood Insurance in Sunny Isles Beach", href: "/flood-insurance", desc: "Explore flood insurance options and request a quote." },
+                { label: "Collins Avenue Business Insurance in Sunny Isles Beach (2026)", href: "/resources/collins-avenue-business-insurance-sunny-isles-beach-2026", desc: "Why a BOP does not cover flood, liquor, or workers’ compensation for 33160 storefronts." },
                 { label: "Citizens Flood Mandate in Sunny Isles Beach (2026)", href: "/resources/citizens-flood-mandate-sunny-isles-beach-2026", desc: "The $400k Coverage A rule already in force, the 2027 deadline, and the HO-6 exemption." },
                 { label: "Renters Insurance in Sunny Isles Beach (2026)", href: "/resources/renters-insurance-sunny-isles-beach-2026", desc: "HO-4 vs. contents-only flood, hurricane deductibles, and lease rules for 33160 tenants." },
                 { label: "Does Home Insurance Cover Hurricane Damage?", href: "/resources/hurricane-damage-home-insurance-sunny-isles", desc: "Wind vs. storm surge vs. flood for Sunny Isles Beach properties." },
