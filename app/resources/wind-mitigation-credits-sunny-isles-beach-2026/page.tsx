@@ -686,6 +686,11 @@ export default function WindMitigationSunnyIslesArticle() {
                   desc: "2026 HO-6 rate cuts vs. association master-policy increases.",
                 },
                 {
+                  label: "Special Assessments vs HO-6 Loss Assessment (2026)",
+                  href: "/resources/special-assessments-ho6-sunny-isles-beach-2026",
+                  desc: "Wind credits do not pay a SIRS or recertification special assessment.",
+                },
+                {
                   label: "Renters Insurance in Sunny Isles Beach (2026)",
                   href: "/resources/renters-insurance-sunny-isles-beach-2026",
                   desc: "HO-4 coverage, contents flood, and how July 1 wind credits show up for tenants.",

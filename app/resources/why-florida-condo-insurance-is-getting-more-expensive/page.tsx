@@ -317,7 +317,16 @@ export default function WhyFloridaCondoInsuranceCostsArticle() {
                 assessments or as a special assessment. Those bills are real
                 costs of owning a Florida condo in 2026. They are not the same
                 as an insurance premium, and they are easy to mix together when
-                the board packet only shows a larger monthly ACH.
+                the board packet only shows a larger monthly ACH. For a
+                letter-by-letter how-to — including Collins Avenue deductible
+                math and the 627.714 timing rule — see{" "}
+                <Link
+                  href="/resources/special-assessments-ho6-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  special assessments vs HO-6 loss assessment coverage in 2026
+                </Link>
+                .
               </p>
 
               <div className="space-y-4 my-6">
@@ -515,6 +524,11 @@ export default function WhyFloridaCondoInsuranceCostsArticle() {
                   label: "Condo Insurance in Sunny Isles Beach",
                   href: "/condo-insurance",
                   desc: "HO-6 coverage that sits beside the association master policy.",
+                },
+                {
+                  label: "Special Assessments vs HO-6 Loss Assessment (2026)",
+                  href: "/resources/special-assessments-ho6-sunny-isles-beach-2026",
+                  desc: "How to read a 2026 assessment letter, size the $2,000 floor, and do Collins Avenue deductible math.",
                 },
                 {
                   label: "Got a Citizens Takeout Letter?",

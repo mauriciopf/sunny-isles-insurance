@@ -600,6 +600,11 @@ export default function CitizensTakeoutSunnyIslesArticle() {
                   desc: "2026 HO-6 rate cuts vs. association master-policy increases.",
                 },
                 {
+                  label: "Special Assessments vs HO-6 Loss Assessment (2026)",
+                  href: "/resources/special-assessments-ho6-sunny-isles-beach-2026",
+                  desc: "Compare loss-assessment limits on a takeout — not only the estimated premium.",
+                },
+                {
                   label: "What Does Condo Insurance Cover in Florida?",
                   href: "/resources/condo-insurance-florida",
                   desc: "HO-6 vs. master policy: belongings, upgrades, and liability.",

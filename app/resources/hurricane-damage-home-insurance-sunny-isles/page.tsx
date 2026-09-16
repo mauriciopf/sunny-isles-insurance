@@ -517,6 +517,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                   desc: "How HO-6 works with an association master policy.",
                 },
                 {
+                  label: "Special Assessments vs HO-6 Loss Assessment (2026)",
+                  href: "/resources/special-assessments-ho6-sunny-isles-beach-2026",
+                  desc: "After a storm, the association deductible becomes an owner bill. How to size the HO-6 limit.",
+                },
+                {
                   label: "Why Florida Condo Insurance Is Getting More Expensive",
                   href: "/resources/why-florida-condo-insurance-is-getting-more-expensive",
                   desc: "2026 master-policy rate increases vs. HO-6 personal-line cuts.",

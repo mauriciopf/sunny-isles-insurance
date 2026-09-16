@@ -29,6 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/resources`, lastModified: now, changeFrequency: "weekly", priority: 0.75 },
 
     // Resource articles
+    { url: `${base}/resources/special-assessments-ho6-sunny-isles-beach-2026`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/resources/collins-avenue-business-insurance-sunny-isles-beach-2026`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/resources/citizens-flood-mandate-sunny-isles-beach-2026`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/resources/renters-insurance-sunny-isles-beach-2026`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },

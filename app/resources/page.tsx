@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,15 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "special-assessments-ho6-sunny-isles-beach-2026",
+    title:
+      "Special Assessments vs HO-6 Loss Assessment Coverage in Sunny Isles Beach in 2026",
+    description:
+      "A record-quiet Atlantic peak is the window to size the HO-6 limit that pays a storm assessment. How Sunny Isles Beach owners should read a 2026 letter — SIRS and 25-year recertification vs. the $2,000 statutory floor.",
+    category: "Condo Insurance",
+    readTime: "9 min read",
+  },
   {
     slug: "collins-avenue-business-insurance-sunny-isles-beach-2026",
     title:

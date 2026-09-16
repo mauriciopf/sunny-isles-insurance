@@ -157,6 +157,7 @@ export default function FloodInsuranceBasicsArticle() {
                 { label: "Wind Mitigation Credits in Sunny Isles Beach (2026)", href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026", desc: "How documented opening protection and roof features change the wind premium — not flood." },
                 { label: "Condo Insurance in Florida", href: "/resources/condo-insurance-florida", desc: "What HO-6 insurance covers for condo owners." },
                 { label: "Why Florida Condo Insurance Is Getting More Expensive", href: "/resources/why-florida-condo-insurance-is-getting-more-expensive", desc: "2026 association rate increases, SIRS assessments, and HO-6 limits." },
+                { label: "Special Assessments vs HO-6 Loss Assessment (2026)", href: "/resources/special-assessments-ho6-sunny-isles-beach-2026", desc: "Flood and surge assessments sit outside a standard HO-6. How to separate them from a wind deductible bill." },
                 { label: "Homeowners Insurance", href: "/homeowners-insurance", desc: "Property coverage for South Florida homeowners." },
                 { label: "Sunny Isles Beach Insurance Guide", href: "/sunny-isles-beach-insurance", desc: "All coverage options for Sunny Isles Beach residents." },
               ].map((link) => (
