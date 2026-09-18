@@ -521,6 +521,11 @@ export default function CitizensFloodMandateSunnyIslesArticle() {
                   desc: "NFIP and private flood options for coastal properties.",
                 },
                 {
+                  label: "NFIP vs Private Flood in Sunny Isles Beach (2026)",
+                  href: "/resources/nfip-vs-private-flood-sunny-isles-beach-2026",
+                  desc: "The mandate says you must buy. This shopping guide compares $250k caps, waits, and ALE.",
+                },
+                {
                   label: "Collins Avenue Business Insurance (2026)",
                   href: "/resources/collins-avenue-business-insurance-sunny-isles-beach-2026",
                   desc: "Commercial flood is a storefront decision — not the Citizens $400k homeowners rule.",

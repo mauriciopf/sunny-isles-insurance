@@ -78,6 +78,13 @@ export default function RentersInsurancePage() {
             >
               Does homeowners insurance cover flooding in Florida?
             </Link>
+            {" · "}
+            <Link
+              href="/resources/nfip-vs-private-flood-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              NFIP vs private flood in Sunny Isles Beach in 2026
+            </Link>
           </p>
         </div>
       </section>

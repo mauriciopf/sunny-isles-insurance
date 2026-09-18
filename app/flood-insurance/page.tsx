@@ -81,6 +81,13 @@ export default function FloodInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/nfip-vs-private-flood-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              NFIP vs private flood in Sunny Isles Beach in 2026
+            </Link>
+            {" · "}
+            <Link
               href="/resources/collins-avenue-business-insurance-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

@@ -120,6 +120,16 @@ export default function FloodInsuranceBasicsArticle() {
                   </div>
                 ))}
               </div>
+              <p>
+                For a 2026 Sunny Isles Beach comparison of NFIP Regular Program caps, private and supplemental flood, additional living expenses, and waiting periods against the king-tide calendar, see{" "}
+                <Link
+                  href="/resources/nfip-vs-private-flood-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  NFIP vs. private flood insurance in Sunny Isles Beach
+                </Link>
+                .
+              </p>
 
               <h2 className="text-2xl font-bold text-navy-900 mt-8">The Waiting Period</h2>
               <p>
@@ -150,6 +160,7 @@ export default function FloodInsuranceBasicsArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 { label: "Flood Insurance in Sunny Isles Beach", href: "/flood-insurance", desc: "Explore flood insurance options and request a quote." },
+                { label: "NFIP vs Private Flood in Sunny Isles Beach (2026)", href: "/resources/nfip-vs-private-flood-sunny-isles-beach-2026", desc: "Residential $250k/$100k caps, 30-day vs. 10–15-day waits, ALE, and the September 24 king-tide window." },
                 { label: "Collins Avenue Business Insurance in Sunny Isles Beach (2026)", href: "/resources/collins-avenue-business-insurance-sunny-isles-beach-2026", desc: "Why a BOP does not cover flood, liquor, or workers’ compensation for 33160 storefronts." },
                 { label: "Citizens Flood Mandate in Sunny Isles Beach (2026)", href: "/resources/citizens-flood-mandate-sunny-isles-beach-2026", desc: "The $400k Coverage A rule already in force, the 2027 deadline, and the HO-6 exemption." },
                 { label: "Renters Insurance in Sunny Isles Beach (2026)", href: "/resources/renters-insurance-sunny-isles-beach-2026", desc: "HO-4 vs. contents-only flood, hurricane deductibles, and lease rules for 33160 tenants." },

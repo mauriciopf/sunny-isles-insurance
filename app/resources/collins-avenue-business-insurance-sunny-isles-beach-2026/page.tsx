@@ -559,6 +559,11 @@ export default function CollinsAvenueBusinessInsuranceArticle() {
                   desc: "NFIP and private flood for coastal properties — including commercial.",
                 },
                 {
+                  label: "NFIP vs Private Flood in Sunny Isles Beach (2026)",
+                  href: "/resources/nfip-vs-private-flood-sunny-isles-beach-2026",
+                  desc: "The residential shopping comparison: $250k/$100k caps vs. commercial $500k/$500k.",
+                },
+                {
                   label: "Does Homeowners Insurance Cover Flooding?",
                   href: "/resources/flood-insurance-basics",
                   desc: "Why flood is a separate policy from wind and property forms.",

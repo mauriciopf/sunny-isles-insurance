@@ -509,6 +509,11 @@ export default function SpecialAssessmentsHo6Article() {
                   desc: "Wind, surge, flood, and hurricane deductibles locally.",
                 },
                 {
+                  label: "NFIP vs Private Flood in Sunny Isles Beach (2026)",
+                  href: "/resources/nfip-vs-private-flood-sunny-isles-beach-2026",
+                  desc: "A flood or surge assessment is not an HO-6 loss-assessment claim. Compare NFIP caps and private ALE separately.",
+                },
+                {
                   label: "Got a Citizens Takeout Letter?",
                   href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026",
                   desc: "October 20 assumption — compare loss assessment, not just premium.",
