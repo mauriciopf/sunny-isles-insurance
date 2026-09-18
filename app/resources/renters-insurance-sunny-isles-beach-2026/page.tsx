@@ -541,6 +541,11 @@ export default function RentersInsuranceSunnyIslesArticle() {
                   desc: "NFIP and private flood options for coastal properties.",
                 },
                 {
+                  label: "NFIP vs Private Flood in Sunny Isles Beach (2026)",
+                  href: "/resources/nfip-vs-private-flood-sunny-isles-beach-2026",
+                  desc: "Owner dwelling vs. contents-only: federal caps, waits, and ALE. Tenants still shop contents flood separately.",
+                },
+                {
                   label: "Does Homeowners Insurance Cover Flooding?",
                   href: "/resources/flood-insurance-basics",
                   desc: "Why flood is a separate policy from wind and HO-4.",

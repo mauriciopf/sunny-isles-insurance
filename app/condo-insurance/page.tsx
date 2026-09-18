@@ -249,6 +249,7 @@ export default function CondoInsurancePage() {
               </p>
               <div className="space-y-3">
                 {[
+                  { label: "NFIP vs Private Flood in 2026", href: "/resources/nfip-vs-private-flood-sunny-isles-beach-2026" },
                   { label: "Special Assessments vs HO-6 in 2026", href: "/resources/special-assessments-ho6-sunny-isles-beach-2026" },
                   { label: "Wind Mitigation Credits in 2026", href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026" },
                   { label: "Citizens Takeout Letters in 2026", href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026" },

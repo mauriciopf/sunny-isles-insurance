@@ -482,6 +482,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                   desc: "Storm surge and flood are usually a separate policy.",
                 },
                 {
+                  label: "NFIP vs Private Flood in Sunny Isles Beach (2026)",
+                  href: "/resources/nfip-vs-private-flood-sunny-isles-beach-2026",
+                  desc: "Residential $250k caps, waiting periods, and why king tides — not a Bermuda invest — set the calendar.",
+                },
+                {
                   label: "Wind Mitigation Credits in Sunny Isles Beach (2026)",
                   href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026",
                   desc: "April 2026 inspection form, July 1 HO-6 credit tables, and the 15-year roof-age rule.",
