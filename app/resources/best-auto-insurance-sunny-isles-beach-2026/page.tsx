@@ -496,6 +496,11 @@ export default function BestAutoInsuranceSunnyIsles2026Article() {
                   desc: "Liability, PIP, collision, comprehensive, and UM options.",
                 },
                 {
+                  label: "Does Auto Insurance Cover King Tide Flooding?",
+                  href: "/resources/auto-insurance-flood-king-tide-sunny-isles-beach-2026",
+                  desc: "Comprehensive vs PIP for Collins Avenue street parking and garage flooding — NFIP never covers the car.",
+                },
+                {
                   label: "Understanding Florida PIP",
                   href: "/resources/florida-auto-pip",
                   desc: "How no-fault medical coverage still works in 2026.",

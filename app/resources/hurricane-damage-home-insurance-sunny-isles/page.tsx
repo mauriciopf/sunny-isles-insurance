@@ -482,6 +482,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                   desc: "Storm surge and flood are usually a separate policy.",
                 },
                 {
+                  label: "Does Auto Insurance Cover King Tide Flooding?",
+                  href: "/resources/auto-insurance-flood-king-tide-sunny-isles-beach-2026",
+                  desc: "Wind and flood on the building still leave the parked car on comprehensive.",
+                },
+                {
                   label: "NFIP vs Private Flood in Sunny Isles Beach (2026)",
                   href: "/resources/nfip-vs-private-flood-sunny-isles-beach-2026",
                   desc: "Residential $250k caps, waiting periods, and why king tides — not a Bermuda invest — set the calendar.",

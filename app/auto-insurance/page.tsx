@@ -139,6 +139,13 @@ export default function AutoInsurancePage() {
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/auto-insurance-flood-king-tide-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Does auto insurance cover king tide flooding in Sunny Isles Beach?
+            </Link>
+            {" · "}
+            <Link
               href="/resources/best-auto-insurance-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

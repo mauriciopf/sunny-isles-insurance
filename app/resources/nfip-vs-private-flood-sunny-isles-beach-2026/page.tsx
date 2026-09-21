@@ -593,6 +593,11 @@ export default function NfipVsPrivateFloodSunnyIslesArticle() {
                   desc: "NFIP and private flood options for coastal properties.",
                 },
                 {
+                  label: "Does Auto Insurance Cover King Tide Flooding?",
+                  href: "/resources/auto-insurance-flood-king-tide-sunny-isles-beach-2026",
+                  desc: "The parked car is comprehensive, not NFIP. Collins Avenue garages and the Sept. 24 tide window.",
+                },
+                {
                   label: "Does Homeowners Insurance Cover Flooding?",
                   href: "/resources/flood-insurance-basics",
                   desc: "Why flood is a separate policy from wind and HO-3 — the starting point before this shopping comparison.",

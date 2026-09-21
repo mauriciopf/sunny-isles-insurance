@@ -160,6 +160,7 @@ export default function FloodInsuranceBasicsArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 { label: "Flood Insurance in Sunny Isles Beach", href: "/flood-insurance", desc: "Explore flood insurance options and request a quote." },
+                { label: "Does Auto Insurance Cover King Tide Flooding?", href: "/resources/auto-insurance-flood-king-tide-sunny-isles-beach-2026", desc: "NFIP and HO-3 still exclude the car. Comprehensive is the king-tide coverage for 33160 vehicles." },
                 { label: "NFIP vs Private Flood in Sunny Isles Beach (2026)", href: "/resources/nfip-vs-private-flood-sunny-isles-beach-2026", desc: "Residential $250k/$100k caps, 30-day vs. 10–15-day waits, ALE, and the September 24 king-tide window." },
                 { label: "Collins Avenue Business Insurance in Sunny Isles Beach (2026)", href: "/resources/collins-avenue-business-insurance-sunny-isles-beach-2026", desc: "Why a BOP does not cover flood, liquor, or workers’ compensation for 33160 storefronts." },
                 { label: "Citizens Flood Mandate in Sunny Isles Beach (2026)", href: "/resources/citizens-flood-mandate-sunny-isles-beach-2026", desc: "The $400k Coverage A rule already in force, the 2027 deadline, and the HO-6 exemption." },

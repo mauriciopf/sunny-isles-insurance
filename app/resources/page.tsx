@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — auto comprehensive vs king-tide flooding, NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,15 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "auto-insurance-flood-king-tide-sunny-isles-beach-2026",
+    title:
+      "Does Auto Insurance Cover King Tide Flooding in Sunny Isles Beach in 2026?",
+    description:
+      "Tropical Storm Fay is a distant fish storm. King tides start September 24. How Sunny Isles Beach drivers should read comprehensive vs PIP, garage flooding, and why NFIP never covers the car.",
+    category: "Auto Insurance",
+    readTime: "9 min read",
+  },
   {
     slug: "nfip-vs-private-flood-sunny-isles-beach-2026",
     title:
