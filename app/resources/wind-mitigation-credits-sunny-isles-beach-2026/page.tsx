@@ -656,6 +656,11 @@ export default function WindMitigationSunnyIslesArticle() {
                   desc: "Dwelling, wind, and liability coverage for South Florida homes.",
                 },
                 {
+                  label: "Florida Homeowners Insurance Rate Cuts (2026)",
+                  href: "/resources/homeowners-insurance-rate-cuts-sunny-isles-beach-2026",
+                  desc: "A rate-cut filing does not replace a current wind-mitigation inspection.",
+                },
+                {
                   label: "Condo Insurance in Sunny Isles Beach",
                   href: "/condo-insurance",
                   desc: "HO-6 coverage that sits beside the association master policy.",

@@ -321,6 +321,13 @@ export default function SunnyIslesBeachInsurancePage() {
             </Link>
             {" · "}
             <Link
+              href="/resources/homeowners-insurance-rate-cuts-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Florida homeowners insurance rate cuts in Sunny Isles Beach in 2026
+            </Link>
+            {" · "}
+            <Link
               href="/resources/special-assessments-ho6-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

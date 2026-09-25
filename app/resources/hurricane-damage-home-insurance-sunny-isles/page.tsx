@@ -477,6 +477,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                   desc: "Dwelling, wind, and liability coverage for South Florida homes.",
                 },
                 {
+                  label: "Florida Homeowners Insurance Rate Cuts (2026)",
+                  href: "/resources/homeowners-insurance-rate-cuts-sunny-isles-beach-2026",
+                  desc: "September 22 OIR decreases — shop the 33160 renewal, not the statewide average.",
+                },
+                {
                   label: "Flood Insurance for South Florida",
                   href: "/flood-insurance",
                   desc: "Storm surge and flood are usually a separate policy.",

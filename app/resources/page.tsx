@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — auto comprehensive vs king-tide flooding, NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — September 2026 homeowners rate cuts, auto comprehensive vs king-tide flooding, NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,15 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "homeowners-insurance-rate-cuts-sunny-isles-beach-2026",
+    title:
+      "Florida Homeowners Insurance Rate Cuts in 2026: What Sunny Isles Beach Owners Should Shop at Renewal",
+    description:
+      "OIR approved four more HO decreases on September 22 for 62,000 policies. Gonzalo is a Cabo Verde fish storm. How Sunny Isles Beach owners should read statewide averages against HVHZ, flood, and a Citizens renewal.",
+    category: "Homeowners Insurance",
+    readTime: "9 min read",
+  },
   {
     slug: "auto-insurance-flood-king-tide-sunny-isles-beach-2026",
     title:

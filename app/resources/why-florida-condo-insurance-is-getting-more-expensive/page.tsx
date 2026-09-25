@@ -526,6 +526,11 @@ export default function WhyFloridaCondoInsuranceCostsArticle() {
                   desc: "HO-6 coverage that sits beside the association master policy.",
                 },
                 {
+                  label: "Florida Homeowners Insurance Rate Cuts (2026)",
+                  href: "/resources/homeowners-insurance-rate-cuts-sunny-isles-beach-2026",
+                  desc: "September 22 personal-lines HO decreases — still not the association master-policy story.",
+                },
+                {
                   label: "Special Assessments vs HO-6 Loss Assessment (2026)",
                   href: "/resources/special-assessments-ho6-sunny-isles-beach-2026",
                   desc: "How to read a 2026 assessment letter, size the $2,000 floor, and do Collins Avenue deductible math.",
