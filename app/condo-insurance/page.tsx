@@ -129,6 +129,14 @@ export default function CondoInsurancePage() {
                 >
                   how the 2026 $400k flood rule and the 2027 deadline work
                 </Link>
+                . If wind or flood keeps you out of the unit,{" "}
+                <Link
+                  href="/resources/additional-living-expenses-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  additional living expenses on HO-6 still follow a covered
+                  peril — NFIP does not pay the hotel
+                </Link>
                 .
               </p>
             </div>

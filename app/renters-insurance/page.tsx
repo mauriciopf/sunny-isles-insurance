@@ -59,6 +59,13 @@ export default function RentersInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/additional-living-expenses-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Additional living expenses vs flood for Sunny Isles Beach renters and owners
+            </Link>
+            {" · "}
+            <Link
               href="/resources/renters-insurance-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >
