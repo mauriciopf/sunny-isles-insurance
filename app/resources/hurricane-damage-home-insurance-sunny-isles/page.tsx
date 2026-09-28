@@ -477,6 +477,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
                   desc: "Dwelling, wind, and liability coverage for South Florida homes.",
                 },
                 {
+                  label: "Additional Living Expenses in Sunny Isles Beach (2026)",
+                  href: "/resources/additional-living-expenses-sunny-isles-beach-2026",
+                  desc: "Who pays the hotel if wind — or flood — keeps you out of a 33160 house or HO-6.",
+                },
+                {
                   label: "Florida Homeowners Insurance Rate Cuts (2026)",
                   href: "/resources/homeowners-insurance-rate-cuts-sunny-isles-beach-2026",
                   desc: "September 22 OIR decreases — shop the 33160 renewal, not the statewide average.",

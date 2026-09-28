@@ -593,6 +593,11 @@ export default function NfipVsPrivateFloodSunnyIslesArticle() {
                   desc: "NFIP and private flood options for coastal properties.",
                 },
                 {
+                  label: "Additional Living Expenses in Sunny Isles Beach (2026)",
+                  href: "/resources/additional-living-expenses-sunny-isles-beach-2026",
+                  desc: "The dedicated hotel-bill guide: Coverage D on HO-3/HO-6 versus NFIP’s no-ALE form.",
+                },
+                {
                   label: "Does Auto Insurance Cover King Tide Flooding?",
                   href: "/resources/auto-insurance-flood-king-tide-sunny-isles-beach-2026",
                   desc: "The parked car is comprehensive, not NFIP. Collins Avenue garages and the Sept. 24 tide window.",
