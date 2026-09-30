@@ -59,6 +59,13 @@ export default function RentersInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/snowbird-insurance-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Snowbird insurance in Sunny Isles Beach in 2026: seasonal occupancy and PIP
+            </Link>
+            {" · "}
+            <Link
               href="/resources/additional-living-expenses-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

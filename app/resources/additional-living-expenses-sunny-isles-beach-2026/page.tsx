@@ -544,6 +544,11 @@ export default function AdditionalLivingExpensesSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Snowbird Insurance in Sunny Isles Beach (2026)",
+                  href: "/resources/snowbird-insurance-sunny-isles-beach-2026",
+                  desc: "Seasonal occupancy, fair rental vs ALE, and Florida PIP for part-year residents.",
+                },
+                {
                   label: "Homeowners Insurance in Sunny Isles Beach",
                   href: "/homeowners-insurance",
                   desc: "Dwelling, wind, liability, and the Coverage D line this guide unpacks.",

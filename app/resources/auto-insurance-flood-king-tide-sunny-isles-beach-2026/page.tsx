@@ -510,6 +510,11 @@ export default function AutoInsuranceKingTideFloodSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Snowbird Insurance in Sunny Isles Beach (2026)",
+                  href: "/resources/snowbird-insurance-sunny-isles-beach-2026",
+                  desc: "A car left in a Collins Avenue garage for the summer is still a comprehensive king-tide risk — and Florida PIP has a 90-day clock.",
+                },
+                {
                   label: "Auto Insurance in Sunny Isles Beach",
                   href: "/auto-insurance",
                   desc: "Liability, PIP, collision, comprehensive, and UM options for 33160 drivers.",

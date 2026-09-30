@@ -143,6 +143,7 @@ export default function FloridaAutoPIPArticle() {
             <h2 className="text-xl font-bold text-navy-900 mb-5">Related Coverage &amp; Resources</h2>
             <div className="grid sm:grid-cols-2 gap-4">
               {[
+                { label: "Snowbird Insurance in Sunny Isles Beach (2026)", href: "/resources/snowbird-insurance-sunny-isles-beach-2026", desc: "Florida’s 90-day PIP clock for seasonal residents, plus HO-6 occupancy and king-tide auto." },
                 { label: "Auto Insurance in Sunny Isles Beach", href: "/auto-insurance", desc: "Explore auto coverage options and request a quote." },
                 { label: "Best Auto Insurance Options in Sunny Isles Beach in 2026", href: "/resources/best-auto-insurance-sunny-isles-beach-2026", desc: "Rate relief, PIP still in force, and how to compare coverage locally." },
                 { label: "Does Auto Insurance Cover King Tide Flooding?", href: "/resources/auto-insurance-flood-king-tide-sunny-isles-beach-2026", desc: "PIP does not repair a flooded car. Comprehensive and the Sept. 24 king-tide window." },
