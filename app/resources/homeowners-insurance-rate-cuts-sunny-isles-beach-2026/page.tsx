@@ -574,6 +574,11 @@ export default function HomeownersInsuranceRateCutsSunnyIslesArticle() {
                   desc: "Wind, surge, and flood remain three claims even when HO rates fall.",
                 },
                 {
+                  label: "My Safe Florida Home Grants in Sunny Isles Beach (2026)",
+                  href: "/resources/my-safe-florida-home-sunny-isles-beach-2026",
+                  desc: "A rate-cut filing does not nail a roof deck or pay for HVHZ glass.",
+                },
+                {
                   label: "Wind Mitigation Credits in Sunny Isles Beach (2026)",
                   href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026",
                   desc: "A current inspection still changes the wind premium more than a press-release average.",

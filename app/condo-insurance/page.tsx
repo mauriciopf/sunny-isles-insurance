@@ -120,6 +120,14 @@ export default function CondoInsurancePage() {
                 >
                   wind mitigation credits in Sunny Isles Beach in 2026
                 </Link>
+                . State hardening money for towers is association-only — see{" "}
+                <Link
+                  href="/resources/my-safe-florida-home-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  My Safe Florida Home versus the Condo Pilot in Sunny Isles
+                  Beach in 2026
+                </Link>
                 . Citizens currently exempts HO-6 unit-owner policies from its
                 statutory flood mandate — that is not the same as surge
                 coverage. See{" "}
@@ -257,6 +265,7 @@ export default function CondoInsurancePage() {
               </p>
               <div className="space-y-3">
                 {[
+                  { label: "My Safe Florida Home & Condo Pilot Grants (2026)", href: "/resources/my-safe-florida-home-sunny-isles-beach-2026" },
                   { label: "Snowbird Insurance in Sunny Isles Beach (2026)", href: "/resources/snowbird-insurance-sunny-isles-beach-2026" },
                   { label: "NFIP vs Private Flood in 2026", href: "/resources/nfip-vs-private-flood-sunny-isles-beach-2026" },
                   { label: "Special Assessments vs HO-6 in 2026", href: "/resources/special-assessments-ho6-sunny-isles-beach-2026" },
