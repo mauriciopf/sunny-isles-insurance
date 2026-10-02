@@ -171,7 +171,19 @@ export default function WindMitigationSunnyIslesArticle() {
                 </Link>
                 , and they do not erase a hurricane deductible. They do change
                 the wind portion of the premium — if the right form, with the
-                right photos, is on the file.
+                right photos, is on the file. A Department of Financial
+                Services grant is a different file: a homesteaded house that
+                clears the income and $700,000 insured-value tests may get
+                reimbursement toward the same upgrades, while a Collins
+                Avenue unit owner generally cannot apply alone. See{" "}
+                <Link
+                  href="/resources/my-safe-florida-home-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  My Safe Florida Home grants versus the Condo Pilot in Sunny
+                  Isles Beach in 2026
+                </Link>
+                .
               </p>
               <p>
                 This week is a reminder of why the file still matters. Atlantic
@@ -650,6 +662,11 @@ export default function WindMitigationSunnyIslesArticle() {
             </h2>
             <div className="grid sm:grid-cols-2 gap-4">
               {[
+                {
+                  label: "My Safe Florida Home Grants in Sunny Isles Beach (2026)",
+                  href: "/resources/my-safe-florida-home-sunny-isles-beach-2026",
+                  desc: "State reimbursement is not the same file as an OIR-B1-1802 credit.",
+                },
                 {
                   label: "Homeowners Insurance in Sunny Isles Beach",
                   href: "/homeowners-insurance",

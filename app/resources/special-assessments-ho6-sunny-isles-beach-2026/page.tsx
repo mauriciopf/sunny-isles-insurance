@@ -519,6 +519,11 @@ export default function SpecialAssessmentsHo6Article() {
                   desc: "October 20 assumption — compare loss assessment, not just premium.",
                 },
                 {
+                  label: "My Safe Florida Home Grants in Sunny Isles Beach (2026)",
+                  href: "/resources/my-safe-florida-home-sunny-isles-beach-2026",
+                  desc: "Association-only Condo Pilot money can shrink a glass or roof assessment — if the board qualifies.",
+                },
+                {
                   label: "Wind Mitigation Credits in Sunny Isles Beach (2026)",
                   href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026",
                   desc: "Inspection forms for towers; credits do not pay a SIRS assessment.",

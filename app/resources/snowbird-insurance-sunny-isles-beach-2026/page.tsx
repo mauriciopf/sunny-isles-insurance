@@ -638,6 +638,11 @@ export default function SnowbirdInsuranceSunnyIslesArticle() {
                   desc: "Fair rental value and your own hotel are neighboring sentences. Seasonal endorsements can change both.",
                 },
                 {
+                  label: "My Safe Florida Home Grants in Sunny Isles Beach (2026)",
+                  href: "/resources/my-safe-florida-home-sunny-isles-beach-2026",
+                  desc: "No Florida homestead usually means the state grant does not follow the seasonal house.",
+                },
+                {
                   label: "What Does Condo Insurance Cover in Florida?",
                   href: "/resources/condo-insurance-florida",
                   desc: "Unit, belongings, and liability versus the association master policy.",
