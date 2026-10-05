@@ -613,6 +613,11 @@ export default function SnowbirdInsuranceSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Citizens December 2026 Form Changes in Sunny Isles Beach",
+                  href: "/resources/citizens-december-2026-form-changes-sunny-isles-beach",
+                  desc: "Empty and furnished is occupancy. More than three short stays, or a live listing, is the new Citizens business exclusion — including on HO-6.",
+                },
+                {
                   label: "Condo Insurance in Sunny Isles Beach",
                   href: "/condo-insurance",
                   desc: "HO-6 still has to name seasonal occupancy. The master policy is not your winter contents policy.",

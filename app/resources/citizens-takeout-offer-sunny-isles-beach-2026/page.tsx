@@ -585,6 +585,11 @@ export default function CitizensTakeoutSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Citizens December 2026 Form Changes in Sunny Isles Beach",
+                  href: "/resources/citizens-december-2026-form-changes-sunny-isles-beach",
+                  desc: "If you stay with Citizens past December 1, wind coverage can fail if required flood lapses — compare that condition on a takeout form too.",
+                },
+                {
                   label: "Condo Insurance in Sunny Isles Beach",
                   href: "/condo-insurance",
                   desc: "HO-6 coverage that sits beside the association master policy.",

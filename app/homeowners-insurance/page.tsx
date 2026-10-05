@@ -123,6 +123,13 @@ export default function HomeownersInsurancePage() {
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/citizens-december-2026-form-changes-sunny-isles-beach"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Citizens December 2026 form changes in Sunny Isles Beach: wind, flood proof, and short-term rentals
+            </Link>
+            {" · "}
+            <Link
               href="/resources/my-safe-florida-home-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

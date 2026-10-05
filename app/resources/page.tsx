@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — My Safe Florida Home and Condo Pilot grants in HVHZ 33160, snowbird seasonal occupancy and Florida’s 90-day PIP rule, additional living expenses vs NFIP’s hotel gap, September 2026 homeowners rate cuts, auto comprehensive vs king-tide flooding, NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — Citizens December 2026 form changes (wind coverage if flood lapses, 14-day authorization, short-term rentals), My Safe Florida Home and Condo Pilot grants in HVHZ 33160, snowbird seasonal occupancy and Florida’s 90-day PIP rule, additional living expenses vs NFIP’s hotel gap, September 2026 homeowners rate cuts, auto comprehensive vs king-tide flooding, NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,15 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "citizens-december-2026-form-changes-sunny-isles-beach",
+    title:
+      "Citizens December 2026 Form Changes in Sunny Isles Beach: Wind Coverage, Flood Proof, and Short-Term Rentals",
+    description:
+      "A Gulf trough is 70% to develop this week. Citizens’ Dec. 1 forms can drop wind coverage if required flood lapses. How Sunny Isles Beach HO-3 owners should read the 14-day authorization — and why HO-6 still gets the new short-term rental definition.",
+    category: "Homeowners Insurance",
+    readTime: "10 min read",
+  },
   {
     slug: "my-safe-florida-home-sunny-isles-beach-2026",
     title:

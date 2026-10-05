@@ -29,6 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/resources`, lastModified: now, changeFrequency: "weekly", priority: 0.75 },
 
     // Resource articles
+    { url: `${base}/resources/citizens-december-2026-form-changes-sunny-isles-beach`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/resources/my-safe-florida-home-sunny-isles-beach-2026`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/resources/snowbird-insurance-sunny-isles-beach-2026`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/resources/additional-living-expenses-sunny-isles-beach-2026`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },

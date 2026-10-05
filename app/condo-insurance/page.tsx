@@ -130,7 +130,17 @@ export default function CondoInsurancePage() {
                 </Link>
                 . Citizens currently exempts HO-6 unit-owner policies from its
                 statutory flood mandate — that is not the same as surge
-                coverage. See{" "}
+                coverage. The December 1, 2026 personal-lines forms keep that
+                HO-6 exemption for the new wind-for-flood condition, but they
+                do rewrite short-term rental definitions on HO-6. See{" "}
+                <Link
+                  href="/resources/citizens-december-2026-form-changes-sunny-isles-beach"
+                  className="text-ocean-500 hover:underline"
+                >
+                  Citizens’ December 2026 form changes for Sunny Isles Beach
+                  houses and condos
+                </Link>
+                . See{" "}
                 <Link
                   href="/resources/citizens-flood-mandate-sunny-isles-beach-2026"
                   className="text-ocean-500 hover:underline"

@@ -81,6 +81,13 @@ export default function FloodInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/citizens-december-2026-form-changes-sunny-isles-beach"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Citizens December 2026 form changes: wind coverage if required flood lapses
+            </Link>
+            {" · "}
+            <Link
               href="/resources/additional-living-expenses-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

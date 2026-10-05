@@ -516,6 +516,11 @@ export default function CitizensFloodMandateSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Citizens December 2026 Form Changes in Sunny Isles Beach",
+                  href: "/resources/citizens-december-2026-form-changes-sunny-isles-beach",
+                  desc: "If required flood lapses after Citizens verified it, the Dec. 1 form can drop wind coverage — a different problem from never buying flood.",
+                },
+                {
                   label: "Flood Insurance in Sunny Isles Beach",
                   href: "/flood-insurance",
                   desc: "NFIP and private flood options for coastal properties.",
