@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — Citizens December 2026 form changes (wind coverage if flood lapses, 14-day authorization, short-term rentals), My Safe Florida Home and Condo Pilot grants in HVHZ 33160, snowbird seasonal occupancy and Florida’s 90-day PIP rule, additional living expenses vs NFIP’s hotel gap, September 2026 homeowners rate cuts, auto comprehensive vs king-tide flooding, NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — ordinance or law 25% vs 50% rebuild coverage in Miami-Dade’s HVHZ, Citizens December 2026 form changes (wind coverage if flood lapses, 14-day authorization, short-term rentals), My Safe Florida Home and Condo Pilot grants in HVHZ 33160, snowbird seasonal occupancy and Florida’s 90-day PIP rule, additional living expenses vs NFIP’s hotel gap, September 2026 homeowners rate cuts, auto comprehensive vs king-tide flooding, NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,15 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "ordinance-or-law-coverage-sunny-isles-beach-2026",
+    title:
+      "Ordinance or Law Coverage in Sunny Isles Beach in 2026: 25% vs 50% After a Hurricane",
+    description:
+      "Tropical Storm Isaias formed October 7. How Sunny Isles Beach HO-3 owners should read Florida’s 25% vs 50% ordinance-or-law offers against HVHZ rebuilds — and why NFIP’s $30k ICC is not a substitute.",
+    category: "Homeowners Insurance",
+    readTime: "10 min read",
+  },
   {
     slug: "citizens-december-2026-form-changes-sunny-isles-beach",
     title:

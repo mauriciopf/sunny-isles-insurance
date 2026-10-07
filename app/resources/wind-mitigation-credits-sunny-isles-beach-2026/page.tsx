@@ -663,6 +663,11 @@ export default function WindMitigationSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Ordinance or Law Coverage in Sunny Isles Beach (2026)",
+                  href: "/resources/ordinance-or-law-coverage-sunny-isles-beach-2026",
+                  desc: "Credits lower the premium. Ordinance or law pays code upgrades after a covered loss — same 627.7011, different subsection.",
+                },
+                {
                   label: "My Safe Florida Home Grants in Sunny Isles Beach (2026)",
                   href: "/resources/my-safe-florida-home-sunny-isles-beach-2026",
                   desc: "State reimbursement is not the same file as an OIR-B1-1802 credit.",

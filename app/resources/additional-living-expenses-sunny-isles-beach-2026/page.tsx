@@ -544,6 +544,11 @@ export default function AdditionalLivingExpensesSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Ordinance or Law Coverage in Sunny Isles Beach (2026)",
+                  href: "/resources/ordinance-or-law-coverage-sunny-isles-beach-2026",
+                  desc: "ALE pays the hotel. Ordinance or law pays the building official. Different HO-3 lines.",
+                },
+                {
                   label: "Snowbird Insurance in Sunny Isles Beach (2026)",
                   href: "/resources/snowbird-insurance-sunny-isles-beach-2026",
                   desc: "Seasonal occupancy, fair rental vs ALE, and Florida PIP for part-year residents.",

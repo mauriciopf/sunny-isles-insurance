@@ -559,6 +559,11 @@ export default function HomeownersInsuranceRateCutsSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Ordinance or Law Coverage in Sunny Isles Beach (2026)",
+                  href: "/resources/ordinance-or-law-coverage-sunny-isles-beach-2026",
+                  desc: "A cheaper renewal still needs a 25% vs 50% rebuild line that matches HVHZ code.",
+                },
+                {
                   label: "Additional Living Expenses in Sunny Isles Beach (2026)",
                   href: "/resources/additional-living-expenses-sunny-isles-beach-2026",
                   desc: "A cheaper renewal does not rewrite Coverage D — or put a hotel on the NFIP form.",

@@ -106,6 +106,11 @@ export default function HomeownersInsurancePage() {
                 description:
                   "Standard homeowners policies typically do not cover flood damage. A separate flood policy is usually needed for that type of protection.",
               },
+              {
+                title: "Ordinance or Law",
+                description:
+                  "Florida homeowners insurers must offer extra coverage — typically 25% or 50% of the dwelling limit — to rebuild to current codes after a covered loss. That is a separate line from flood and from wind-mitigation credits.",
+              },
             ].map((item) => (
               <div key={item.title} className="bg-sand-50 border border-sand-200 rounded-2xl p-6">
                 <h3 className="font-semibold text-navy-900 mb-2">{item.title}</h3>
@@ -122,6 +127,13 @@ export default function HomeownersInsurancePage() {
 
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
+            <Link
+              href="/resources/ordinance-or-law-coverage-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Ordinance or law coverage in Sunny Isles Beach in 2026: 25% vs 50%
+            </Link>
+            {" · "}
             <Link
               href="/resources/citizens-december-2026-form-changes-sunny-isles-beach"
               className="text-ocean-500 hover:underline font-medium"

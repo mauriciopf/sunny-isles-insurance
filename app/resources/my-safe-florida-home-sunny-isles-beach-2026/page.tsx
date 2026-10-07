@@ -565,6 +565,11 @@ export default function MySafeFloridaHomeSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Ordinance or Law Coverage in Sunny Isles Beach (2026)",
+                  href: "/resources/ordinance-or-law-coverage-sunny-isles-beach-2026",
+                  desc: "A grant you skip in 2026 does not become 50% ordinance or law after a hurricane.",
+                },
+                {
                   label: "Wind Mitigation Credits in Sunny Isles Beach (2026)",
                   href: "/resources/wind-mitigation-credits-sunny-isles-beach-2026",
                   desc: "OIR-B1-1802 vs MIT-BT forms — the credit file the grant does not replace.",
