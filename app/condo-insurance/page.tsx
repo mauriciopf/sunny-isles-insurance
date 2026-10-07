@@ -128,6 +128,15 @@ export default function CondoInsurancePage() {
                   My Safe Florida Home versus the Condo Pilot in Sunny Isles
                   Beach in 2026
                 </Link>
+                . Florida’s 25% / 50% ordinance-or-law offers under section
+                627.7011 are a house (HO-3) rebuild statute — not a tower
+                rebuild. See{" "}
+                <Link
+                  href="/resources/ordinance-or-law-coverage-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  ordinance or law coverage in Sunny Isles Beach in 2026
+                </Link>
                 . Citizens currently exempts HO-6 unit-owner policies from its
                 statutory flood mandate — that is not the same as surge
                 coverage. The December 1, 2026 personal-lines forms keep that

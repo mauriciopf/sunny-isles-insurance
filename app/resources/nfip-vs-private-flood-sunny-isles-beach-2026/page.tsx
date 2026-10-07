@@ -588,6 +588,11 @@ export default function NfipVsPrivateFloodSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Ordinance or Law Coverage in Sunny Isles Beach (2026)",
+                  href: "/resources/ordinance-or-law-coverage-sunny-isles-beach-2026",
+                  desc: "NFIP ICC’s $30,000 is a flood sublimit. It does not replace 25% or 50% ordinance or law on the HO-3.",
+                },
+                {
                   label: "Flood Insurance in Sunny Isles Beach",
                   href: "/flood-insurance",
                   desc: "NFIP and private flood options for coastal properties.",
