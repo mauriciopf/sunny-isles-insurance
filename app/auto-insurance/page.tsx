@@ -139,6 +139,13 @@ export default function AutoInsurancePage() {
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Hurricane Isaias binding freeze vs king-tide auto flooding in Sunny Isles Beach
+            </Link>
+            {" · "}
+            <Link
               href="/resources/snowbird-insurance-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

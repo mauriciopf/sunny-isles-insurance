@@ -472,6 +472,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Hurricane Isaias Binding Freeze in Sunny Isles Beach (2026)",
+                  href: "/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026",
+                  desc: "First hurricane of 2026 is a Panhandle landfall. Citizens still froze new and increased 33160 binds on October 7.",
+                },
+                {
                   label: "Ordinance or Law Coverage in Sunny Isles Beach (2026)",
                   href: "/resources/ordinance-or-law-coverage-sunny-isles-beach-2026",
                   desc: "Wind pays the damaged house. 25% vs 50% ordinance or law pays to rebuild it to 2026 HVHZ code.",

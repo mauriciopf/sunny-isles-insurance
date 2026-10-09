@@ -625,6 +625,11 @@ export default function OrdinanceOrLawCoverageArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Hurricane Isaias Binding Freeze in Sunny Isles Beach (2026)",
+                  href: "/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026",
+                  desc: "You cannot newly bind or increase a Citizens HO-3 this week. Read the 25% / 50% line on the policy you already have.",
+                },
+                {
                   label: "Homeowners Insurance in Sunny Isles Beach",
                   href: "/homeowners-insurance",
                   desc: "Dwelling, wind, and liability — the HO-3 that actually carries the 25% / 50% ordinance-or-law offers.",

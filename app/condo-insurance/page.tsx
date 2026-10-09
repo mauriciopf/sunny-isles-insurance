@@ -128,6 +128,14 @@ export default function CondoInsurancePage() {
                   My Safe Florida Home versus the Condo Pilot in Sunny Isles
                   Beach in 2026
                 </Link>
+                . A new Citizens HO-6 still cannot bind while a tropical-storm
+                or hurricane watch or warning is up anywhere in Florida — see{" "}
+                <Link
+                  href="/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  the Hurricane Isaias binding freeze for Sunny Isles Beach
+                </Link>
                 . Florida’s 25% / 50% ordinance-or-law offers under section
                 627.7011 are a house (HO-3) rebuild statute — not a tower
                 rebuild. See{" "}

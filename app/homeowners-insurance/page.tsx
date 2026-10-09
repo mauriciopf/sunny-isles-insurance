@@ -128,6 +128,13 @@ export default function HomeownersInsurancePage() {
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Citizens binding freeze during Hurricane Isaias in Sunny Isles Beach in 2026
+            </Link>
+            {" · "}
+            <Link
               href="/resources/ordinance-or-law-coverage-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

@@ -641,6 +641,11 @@ export default function CitizensDecember2026FormChangesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Hurricane Isaias Binding Freeze in Sunny Isles Beach (2026)",
+                  href: "/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026",
+                  desc: "The October 7 statewide freeze is a bind rule. December 1 forms are a different Citizens bulletin.",
+                },
+                {
                   label: "Ordinance or Law Coverage in Sunny Isles Beach (2026)",
                   href: "/resources/ordinance-or-law-coverage-sunny-isles-beach-2026",
                   desc: "Keep required flood in force, then read the 25% vs 50% rebuild line on the same HO-3.",

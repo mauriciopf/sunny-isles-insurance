@@ -81,6 +81,13 @@ export default function FloodInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Hurricane Isaias binding freeze vs king-tide flooding in Sunny Isles Beach
+            </Link>
+            {" · "}
+            <Link
               href="/resources/ordinance-or-law-coverage-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >
