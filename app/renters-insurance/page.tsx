@@ -59,6 +59,13 @@ export default function RentersInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Citizens binding freeze during Hurricane Isaias: new HO-4 binds pause too
+            </Link>
+            {" · "}
+            <Link
               href="/resources/citizens-december-2026-form-changes-sunny-isles-beach"
               className="text-ocean-500 hover:underline font-medium"
             >
