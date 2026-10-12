@@ -128,8 +128,18 @@ export default function CondoInsurancePage() {
                   My Safe Florida Home versus the Condo Pilot in Sunny Isles
                   Beach in 2026
                 </Link>
-                . A new Citizens HO-6 still cannot bind while a tropical-storm
-                or hurricane watch or warning is up anywhere in Florida — see{" "}
+                . Citizens lifted the Hurricane Isaias freeze at 5 a.m. ET
+                October 10, so a new HO-6 can bind again if the risk
+                qualifies — see{" "}
+                <Link
+                  href="/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  when Sunny Isles Beach can bind Citizens coverage after
+                  Isaias
+                </Link>
+                . The October 7 statewide pause that locked 33160 during
+                a Panhandle warning is{" "}
                 <Link
                   href="/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026"
                   className="text-ocean-500 hover:underline"
@@ -292,6 +302,7 @@ export default function CondoInsurancePage() {
               </p>
               <div className="space-y-3">
                 {[
+                  { label: "Citizens Freeze Lifted After Isaias (2026)", href: "/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026" },
                   { label: "My Safe Florida Home & Condo Pilot Grants (2026)", href: "/resources/my-safe-florida-home-sunny-isles-beach-2026" },
                   { label: "Snowbird Insurance in Sunny Isles Beach (2026)", href: "/resources/snowbird-insurance-sunny-isles-beach-2026" },
                   { label: "NFIP vs Private Flood in 2026", href: "/resources/nfip-vs-private-flood-sunny-isles-beach-2026" },

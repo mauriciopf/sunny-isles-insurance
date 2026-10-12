@@ -139,6 +139,13 @@ export default function AutoInsurancePage() {
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Citizens freeze lifted after Isaias: king-tide auto flooding is still comprehensive
+            </Link>
+            {" · "}
+            <Link
               href="/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

@@ -625,9 +625,14 @@ export default function OrdinanceOrLawCoverageArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Citizens Binding Freeze Lifted After Isaias (2026)",
+                  href: "/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026",
+                  desc: "You can bind or increase a Citizens HO-3 again after October 10. The 25% / 50% line is still on the policy you already have.",
+                },
+                {
                   label: "Hurricane Isaias Binding Freeze in Sunny Isles Beach (2026)",
                   href: "/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026",
-                  desc: "You cannot newly bind or increase a Citizens HO-3 this week. Read the 25% / 50% line on the policy you already have.",
+                  desc: "The October 7 pause that locked new and increased Citizens HO-3 binds during the Panhandle warning.",
                 },
                 {
                   label: "Homeowners Insurance in Sunny Isles Beach",

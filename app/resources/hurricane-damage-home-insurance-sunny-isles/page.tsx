@@ -472,9 +472,14 @@ export default function HurricaneDamageHomeInsuranceArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Citizens Binding Freeze Lifted After Isaias (2026)",
+                  href: "/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026",
+                  desc: "Citizens reopened 33160 binds October 10. A Destin Category 2 still does not rewrite wind vs flood on Collins Avenue.",
+                },
+                {
                   label: "Hurricane Isaias Binding Freeze in Sunny Isles Beach (2026)",
                   href: "/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026",
-                  desc: "First hurricane of 2026 is a Panhandle landfall. Citizens still froze new and increased 33160 binds on October 7.",
+                  desc: "First hurricane of 2026 is a Panhandle landfall. Citizens froze new and increased 33160 binds on October 7.",
                 },
                 {
                   label: "Ordinance or Law Coverage in Sunny Isles Beach (2026)",

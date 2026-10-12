@@ -139,6 +139,26 @@ export default function CitizensBindingSuspensionIsaiasArticle() {
         <div className="container-wide max-w-3xl">
           <div className="bg-white rounded-3xl border border-sand-200 p-8 md:p-12">
             <div className="space-y-6 text-navy-600 leading-relaxed">
+              <div className="bg-ocean-50 border border-ocean-200 rounded-2xl p-5 text-sm">
+                <p className="font-semibold text-navy-900 mb-1.5">
+                  Status as of October 12, 2026
+                </p>
+                <p className="leading-relaxed">
+                  Citizens lifted this freeze at 5 a.m. ET on Saturday,
+                  October 10. New and increased personal-lines binds can
+                  move again in ZIP 33160. For what that unlocks — and
+                  what a Destin landfall still does not pay on Collins
+                  Avenue — see{" "}
+                  <Link
+                    href="/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026"
+                    className="text-ocean-500 hover:underline font-medium"
+                  >
+                    the October 12 lift guide
+                  </Link>
+                  . The October 7 rule below is the pause that bulletin
+                  closed.
+                </p>
+              </div>
               <p className="text-lg text-navy-700 font-medium leading-relaxed">
                 Friday morning, October 9, the National Hurricane Center’s
                 4 a.m. CDT Advisory 11 listed Hurricane Isaias near 26.4°N,
@@ -659,6 +679,11 @@ export default function CitizensBindingSuspensionIsaiasArticle() {
             </h2>
             <div className="grid sm:grid-cols-2 gap-4">
               {[
+                {
+                  label: "Citizens Binding Freeze Lifted After Isaias (2026)",
+                  href: "/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026",
+                  desc: "Saturday 5 a.m. ET unlock. What 33160 can bind again — and why king-tide flood still isn’t Destin wind.",
+                },
                 {
                   label: "Homeowners Insurance in Sunny Isles Beach",
                   href: "/homeowners-insurance",

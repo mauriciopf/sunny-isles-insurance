@@ -59,6 +59,13 @@ export default function RentersInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Citizens freeze lifted after Isaias: new HO-4 binds can move again
+            </Link>
+            {" · "}
+            <Link
               href="/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >
