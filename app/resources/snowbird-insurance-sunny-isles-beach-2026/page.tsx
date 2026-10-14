@@ -455,9 +455,17 @@ export default function SnowbirdInsuranceSunnyIslesArticle() {
                   HO-4
                 </Link>
                 , contents flood if they want it, and whatever additional
-                insured or certificate the lease demands. Owners who
+                insured or certificate the lease demands.                 Owners who
                 occasionally host family should not confuse a houseguest with
-                a paying tenant.
+                a paying tenant. A live listing is the{" "}
+                <Link
+                  href="/resources/short-term-rental-insurance-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  short-term vacation rental insurance file
+                </Link>
+                — city license, association consent, and a landlord form —
+                not this seasonal HO-6.
               </p>
 
               <h2 className="text-2xl font-bold text-navy-900 mt-8">
@@ -612,6 +620,11 @@ export default function SnowbirdInsuranceSunnyIslesArticle() {
             </h2>
             <div className="grid sm:grid-cols-2 gap-4">
               {[
+                {
+                  label: "Short-Term Rental Insurance in Sunny Isles Beach (2026)",
+                  href: "/resources/short-term-rental-insurance-sunny-isles-beach-2026",
+                  desc: "A summer Airbnb calendar is a city license and a landlord form — not a snowbird HO-6.",
+                },
                 {
                   label: "Citizens December 2026 Form Changes in Sunny Isles Beach",
                   href: "/resources/citizens-december-2026-form-changes-sunny-isles-beach",

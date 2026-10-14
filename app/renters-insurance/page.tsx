@@ -73,6 +73,13 @@ export default function RentersInsurancePage() {
             </Link>
             {" · "}
             <Link
+              href="/resources/short-term-rental-insurance-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Short-term rental insurance in Sunny Isles Beach: a host listing is not an HO-4
+            </Link>
+            {" · "}
+            <Link
               href="/resources/citizens-december-2026-form-changes-sunny-isles-beach"
               className="text-ocean-500 hover:underline font-medium"
             >

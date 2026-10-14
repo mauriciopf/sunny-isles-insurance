@@ -316,6 +316,11 @@ export default function CondoInsuranceFloridaArticle() {
                   desc: "Explore HO-6 coverage options and request a quote.",
                 },
                 {
+                  label: "Short-Term Rental Insurance in Sunny Isles Beach (2026)",
+                  href: "/resources/short-term-rental-insurance-sunny-isles-beach-2026",
+                  desc: "City license and guest liability — why a personal HO-6 is not a hotel policy.",
+                },
+                {
                   label: "Special Assessments vs HO-6 Loss Assessment (2026)",
                   href: "/resources/special-assessments-ho6-sunny-isles-beach-2026",
                   desc: "Which 2026 condo assessments an HO-6 actually pays — SIRS vs. storm deductibles.",

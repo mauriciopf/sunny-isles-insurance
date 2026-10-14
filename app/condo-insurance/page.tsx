@@ -167,6 +167,16 @@ export default function CondoInsurancePage() {
                   Citizens’ December 2026 form changes for Sunny Isles Beach
                   houses and condos
                 </Link>
+                . City license, association consent, and commercial landlord
+                forms for a Collins Avenue listing are a different file —
+                see{" "}
+                <Link
+                  href="/resources/short-term-rental-insurance-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  short-term vacation rental insurance in Sunny Isles Beach
+                  in 2026
+                </Link>
                 . See{" "}
                 <Link
                   href="/resources/citizens-flood-mandate-sunny-isles-beach-2026"
@@ -302,6 +312,7 @@ export default function CondoInsurancePage() {
               </p>
               <div className="space-y-3">
                 {[
+                  { label: "Short-Term Rental Insurance in Sunny Isles Beach (2026)", href: "/resources/short-term-rental-insurance-sunny-isles-beach-2026" },
                   { label: "Citizens Freeze Lifted After Isaias (2026)", href: "/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026" },
                   { label: "My Safe Florida Home & Condo Pilot Grants (2026)", href: "/resources/my-safe-florida-home-sunny-isles-beach-2026" },
                   { label: "Snowbird Insurance in Sunny Isles Beach (2026)", href: "/resources/snowbird-insurance-sunny-isles-beach-2026" },
