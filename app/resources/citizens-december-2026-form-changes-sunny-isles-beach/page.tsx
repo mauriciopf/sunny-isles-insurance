@@ -472,10 +472,17 @@ export default function CitizensDecember2026FormChangesArticle() {
                   </strong>{" "}
                   more than three times a year, for stays under 30 days,
                   is now written as a business use on the HO-6 form
-                  Citizens will issue on or after December 1. Association
+                  Citizens will issue on or after December 1.                   Association
                   rules, City of Sunny Isles Beach short-term-rental
                   registration, and a landlord or commercial policy are
-                  the coverage conversation — not an assumption that
+                  the coverage conversation — see the dedicated{" "}
+                  <Link
+                    href="/resources/short-term-rental-insurance-sunny-isles-beach-2026"
+                    className="text-ocean-500 hover:underline"
+                  >
+                    short-term vacation rental insurance guide
+                  </Link>
+                  . That is not an assumption that
                   “guest” still means your cousin.
                 </li>
                 <li>
@@ -640,6 +647,11 @@ export default function CitizensDecember2026FormChangesArticle() {
             </h2>
             <div className="grid sm:grid-cols-2 gap-4">
               {[
+                {
+                  label: "Short-Term Rental Insurance in Sunny Isles Beach (2026)",
+                  href: "/resources/short-term-rental-insurance-sunny-isles-beach-2026",
+                  desc: "City license, association consent, and landlord forms — the listing file this guide said not to collapse into the three-stay test.",
+                },
                 {
                   label: "Citizens Binding Freeze Lifted After Isaias (2026)",
                   href: "/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026",

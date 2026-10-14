@@ -549,6 +549,11 @@ export default function CollinsAvenueBusinessInsuranceArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Short-Term Rental Insurance in Sunny Isles Beach (2026)",
+                  href: "/resources/short-term-rental-insurance-sunny-isles-beach-2026",
+                  desc: "A listed condo is a lodging file. A Collins Avenue storefront BOP is still this page.",
+                },
+                {
                   label: "Business Insurance in Sunny Isles Beach",
                   href: "/business-insurance",
                   desc: "BOP, liability, and commercial property options for local businesses.",

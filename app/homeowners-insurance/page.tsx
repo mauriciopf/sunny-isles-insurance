@@ -149,6 +149,13 @@ export default function HomeownersInsurancePage() {
             </Link>
             {" · "}
             <Link
+              href="/resources/short-term-rental-insurance-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Short-term vacation rental insurance in Sunny Isles Beach in 2026: city license and guest liability
+            </Link>
+            {" · "}
+            <Link
               href="/resources/citizens-december-2026-form-changes-sunny-isles-beach"
               className="text-ocean-500 hover:underline font-medium"
             >
