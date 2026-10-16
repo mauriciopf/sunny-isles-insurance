@@ -559,6 +559,11 @@ export default function HomeownersInsuranceRateCutsSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Florida Renters Insurance Rate Cuts (2026)",
+                  href: "/resources/renters-insurance-rate-cuts-sunny-isles-beach-2026",
+                  desc: "The October 11 HO-4 decrease is the tenant stack — not this September homeowners round.",
+                },
+                {
                   label: "Ordinance or Law Coverage in Sunny Isles Beach (2026)",
                   href: "/resources/ordinance-or-law-coverage-sunny-isles-beach-2026",
                   desc: "A cheaper renewal still needs a 25% vs 50% rebuild line that matches HVHZ code.",

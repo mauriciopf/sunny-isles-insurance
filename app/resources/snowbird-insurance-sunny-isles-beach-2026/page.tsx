@@ -666,6 +666,11 @@ export default function SnowbirdInsuranceSunnyIslesArticle() {
                   desc: "Unit, belongings, and liability versus the association master policy.",
                 },
                 {
+                  label: "Florida Renters Insurance Rate Cuts (2026)",
+                  href: "/resources/renters-insurance-rate-cuts-sunny-isles-beach-2026",
+                  desc: "A winter HO-4 can shop the October 11 rate window. Match the lease exhibit, not only the average.",
+                },
+                {
                   label: "Renters Insurance in Sunny Isles Beach (2026)",
                   href: "/resources/renters-insurance-sunny-isles-beach-2026",
                   desc: "Seasonal tenants need HO-4, contents flood, and whatever additional insured the lease names.",

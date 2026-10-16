@@ -740,6 +740,11 @@ export default function ShortTermRentalInsuranceSunnyIslesBeach2026Article() {
                   desc: "Unit, belongings, and liability versus the association master policy.",
                 },
                 {
+                  label: "Florida Renters Insurance Rate Cuts (2026)",
+                  href: "/resources/renters-insurance-rate-cuts-sunny-isles-beach-2026",
+                  desc: "A cheaper tenant HO-4 is still not a host policy or a city license.",
+                },
+                {
                   label: "Renters Insurance in Sunny Isles Beach (2026)",
                   href: "/resources/renters-insurance-sunny-isles-beach-2026",
                   desc: "HO-4 is for a tenant who lives there. It is not a host policy.",

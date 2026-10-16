@@ -151,6 +151,13 @@ export default function FloodInsurancePage() {
             </Link>
             {" · "}
             <Link
+              href="/resources/renters-insurance-rate-cuts-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Florida renters insurance rate cuts: a cheaper HO-4 still does not cover king-tide flood
+            </Link>
+            {" · "}
+            <Link
               href="/resources/renters-insurance-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

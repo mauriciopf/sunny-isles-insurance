@@ -531,6 +531,11 @@ export default function RentersInsuranceSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Florida Renters Insurance Rate Cuts (2026)",
+                  href: "/resources/renters-insurance-rate-cuts-sunny-isles-beach-2026",
+                  desc: "OIR’s −12.8% HO-4 average is in force as of Oct. 11. Shop coverage, not only the statewide cut.",
+                },
+                {
                   label: "Renters Insurance in Sunny Isles Beach",
                   href: "/renters-insurance",
                   desc: "HO-4 coverage for belongings, liability, and loss of use.",
