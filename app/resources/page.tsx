@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — short-term vacation rental licenses and guest liability in ZIP 33160 after Oct. 1 enforcement, Citizens lifting its Isaias binding freeze on Oct. 10 so Sunny Isles Beach can bind again, the Oct. 7 statewide pause during the first Atlantic hurricane of 2026, ordinance or law 25% vs 50% rebuild coverage in Miami-Dade’s HVHZ, Citizens December 2026 form changes (wind coverage if flood lapses, 14-day authorization, short-term rentals), My Safe Florida Home and Condo Pilot grants in HVHZ 33160, snowbird seasonal occupancy and Florida’s 90-day PIP rule, additional living expenses vs NFIP’s hotel gap, September 2026 homeowners rate cuts, auto comprehensive vs king-tide flooding, NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — OIR’s Oct. 11 HO-4 rate cut for about 122,000 renters policies, short-term vacation rental licenses and guest liability in ZIP 33160 after Oct. 1 enforcement, Citizens lifting its Isaias binding freeze on Oct. 10 so Sunny Isles Beach can bind again, the Oct. 7 statewide pause during the first Atlantic hurricane of 2026, ordinance or law 25% vs 50% rebuild coverage in Miami-Dade’s HVHZ, Citizens December 2026 form changes (wind coverage if flood lapses, 14-day authorization, short-term rentals), My Safe Florida Home and Condo Pilot grants in HVHZ 33160, snowbird seasonal occupancy and Florida’s 90-day PIP rule, additional living expenses vs NFIP’s hotel gap, September 2026 homeowners rate cuts, auto comprehensive vs king-tide flooding, NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,15 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "renters-insurance-rate-cuts-sunny-isles-beach-2026",
+    title:
+      "Florida Renters Insurance Rate Cuts in 2026: What Sunny Isles Beach Tenants Should Shop at Renewal",
+    description:
+      "OIR’s −12.8% HO-4 average took effect October 11. Josephine is still unused. How Sunny Isles Beach tenants should read a statewide cut against the October 27 king-tide peak — and a flood wait that already misses it.",
+    category: "Renters Insurance",
+    readTime: "10 min read",
+  },
   {
     slug: "short-term-rental-insurance-sunny-isles-beach-2026",
     title:

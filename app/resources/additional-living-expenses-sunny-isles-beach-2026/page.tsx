@@ -584,6 +584,11 @@ export default function AdditionalLivingExpensesSunnyIslesArticle() {
                   desc: "Street water on the car is comprehensive — not additional living expenses.",
                 },
                 {
+                  label: "Florida Renters Insurance Rate Cuts (2026)",
+                  href: "/resources/renters-insurance-rate-cuts-sunny-isles-beach-2026",
+                  desc: "A cheaper HO-4 still follows covered perils. King-tide hotels stay off the NFIP contents form.",
+                },
+                {
                   label: "Florida Homeowners Insurance Rate Cuts (2026)",
                   href: "/resources/homeowners-insurance-rate-cuts-sunny-isles-beach-2026",
                   desc: "Shop the premium and the ALE limit in the same remarketing window.",

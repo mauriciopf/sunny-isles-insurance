@@ -633,6 +633,11 @@ export default function NfipVsPrivateFloodSunnyIslesArticle() {
                   desc: "HO-6 vs. the association master policy — including who insures the interior after surge.",
                 },
                 {
+                  label: "Florida Renters Insurance Rate Cuts (2026)",
+                  href: "/resources/renters-insurance-rate-cuts-sunny-isles-beach-2026",
+                  desc: "A cheaper HO-4 does not shorten NFIP’s 30-day wait before the October 27 king tide.",
+                },
+                {
                   label: "Renters Insurance in Sunny Isles Beach (2026)",
                   href: "/resources/renters-insurance-sunny-isles-beach-2026",
                   desc: "Contents-only flood for tenants is a different stack than an owner’s dwelling layer.",
