@@ -625,6 +625,11 @@ export default function OrdinanceOrLawCoverageArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Josephine vs Hurricane Deductible in Sunny Isles Beach (2026)",
+                  href: "/resources/josephine-hurricane-deductible-sunny-isles-beach-2026",
+                  desc: "Ordinance-or-law is a hurricane rebuild conversation. This week’s 40% subtropical outlook is a deductible-trigger test.",
+                },
+                {
                   label: "Citizens Binding Freeze Lifted After Isaias (2026)",
                   href: "/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026",
                   desc: "You can bind or increase a Citizens HO-3 again after October 10. The 25% / 50% line is still on the policy you already have.",

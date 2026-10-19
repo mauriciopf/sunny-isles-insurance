@@ -472,6 +472,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Josephine vs Hurricane Deductible in Sunny Isles Beach (2026)",
+                  href: "/resources/josephine-hurricane-deductible-sunny-isles-beach-2026",
+                  desc: "A 40% subtropical chance is not a Florida hurricane warning. How the statutory deductible actually starts.",
+                },
+                {
                   label: "Citizens Binding Freeze Lifted After Isaias (2026)",
                   href: "/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026",
                   desc: "Citizens reopened 33160 binds October 10. A Destin Category 2 still does not rewrite wind vs flood on Collins Avenue.",

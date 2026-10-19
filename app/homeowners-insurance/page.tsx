@@ -128,6 +128,13 @@ export default function HomeownersInsurancePage() {
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/josephine-hurricane-deductible-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              If Josephine forms this week, does a hurricane deductible apply in Sunny Isles Beach?
+            </Link>
+            {" · "}
+            <Link
               href="/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

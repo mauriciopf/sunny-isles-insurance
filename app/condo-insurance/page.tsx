@@ -312,6 +312,7 @@ export default function CondoInsurancePage() {
               </p>
               <div className="space-y-3">
                 {[
+                  { label: "Josephine vs Hurricane Deductible in Sunny Isles Beach (2026)", href: "/resources/josephine-hurricane-deductible-sunny-isles-beach-2026" },
                   { label: "Short-Term Rental Insurance in Sunny Isles Beach (2026)", href: "/resources/short-term-rental-insurance-sunny-isles-beach-2026" },
                   { label: "Citizens Freeze Lifted After Isaias (2026)", href: "/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026" },
                   { label: "My Safe Florida Home & Condo Pilot Grants (2026)", href: "/resources/my-safe-florida-home-sunny-isles-beach-2026" },

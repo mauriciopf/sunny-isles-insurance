@@ -510,6 +510,11 @@ export default function AutoInsuranceKingTideFloodSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Josephine vs Hurricane Deductible in Sunny Isles Beach (2026)",
+                  href: "/resources/josephine-hurricane-deductible-sunny-isles-beach-2026",
+                  desc: "This week’s swell still puts a soaked 33160 car on comprehensive — naming Josephine does not move it to HO-3.",
+                },
+                {
                   label: "Snowbird Insurance in Sunny Isles Beach (2026)",
                   href: "/resources/snowbird-insurance-sunny-isles-beach-2026",
                   desc: "A car left in a Collins Avenue garage for the summer is still a comprehensive king-tide risk — and Florida PIP has a 90-day clock.",

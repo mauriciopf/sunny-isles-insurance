@@ -139,6 +139,13 @@ export default function AutoInsurancePage() {
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/josephine-hurricane-deductible-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Josephine vs a hurricane deductible: a soaked car this week is still comprehensive
+            </Link>
+            {" · "}
+            <Link
               href="/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

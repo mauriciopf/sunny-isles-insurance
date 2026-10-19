@@ -130,6 +130,13 @@ export default function FloodInsurancePage() {
             </Link>
             {" · "}
             <Link
+              href="/resources/josephine-hurricane-deductible-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Josephine vs a hurricane deductible: this week’s swell is still a flood file
+            </Link>
+            {" · "}
+            <Link
               href="/resources/nfip-vs-private-flood-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >
