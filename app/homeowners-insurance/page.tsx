@@ -128,6 +128,13 @@ export default function HomeownersInsurancePage() {
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/citizens-october-20-takeout-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Citizens takeout happened October 20: what Sunny Isles Beach should check before November 5
+            </Link>
+            {" · "}
+            <Link
               href="/resources/josephine-hurricane-deductible-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

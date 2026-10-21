@@ -130,6 +130,13 @@ export default function FloodInsurancePage() {
             </Link>
             {" · "}
             <Link
+              href="/resources/citizens-october-20-takeout-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              October 20 Citizens takeout: the assumption did not buy flood for king tide
+            </Link>
+            {" · "}
+            <Link
               href="/resources/josephine-hurricane-deductible-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

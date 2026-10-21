@@ -104,13 +104,21 @@ export default function CondoInsurancePage() {
                 >
                   why Florida condo insurance is getting more expensive
                 </Link>
-                . If Citizens mailed a 2026 depopulation packet,{" "}
+                .                 If Citizens mailed a 2026 depopulation packet,{" "}
                 <Link
                   href="/resources/citizens-takeout-offer-sunny-isles-beach-2026"
                   className="text-ocean-500 hover:underline"
                 >
                   read how takeout offers work for Sunny Isles Beach HO-6
                   policies
+                </Link>
+                . The October 20 assumption has already run — see{" "}
+                <Link
+                  href="/resources/citizens-october-20-takeout-sunny-isles-beach-2026"
+                  className="text-ocean-500 hover:underline"
+                >
+                  what Sunny Isles Beach owners should check before the
+                  November 5 choice deadline
                 </Link>
                 . For the July 1 HO-6 wind-credit tables and which inspection
                 form a high-rise uses, see{" "}
@@ -312,6 +320,7 @@ export default function CondoInsurancePage() {
               </p>
               <div className="space-y-3">
                 {[
+                  { label: "October 20 Citizens Takeout in Sunny Isles Beach (2026)", href: "/resources/citizens-october-20-takeout-sunny-isles-beach-2026" },
                   { label: "Josephine vs Hurricane Deductible in Sunny Isles Beach (2026)", href: "/resources/josephine-hurricane-deductible-sunny-isles-beach-2026" },
                   { label: "Short-Term Rental Insurance in Sunny Isles Beach (2026)", href: "/resources/short-term-rental-insurance-sunny-isles-beach-2026" },
                   { label: "Citizens Freeze Lifted After Isaias (2026)", href: "/resources/citizens-binding-suspension-lifted-isaias-sunny-isles-beach-2026" },

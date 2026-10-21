@@ -426,6 +426,13 @@ export default function SunnyIslesBeachInsurancePage() {
             </Link>
             {" · "}
             <Link
+              href="/resources/citizens-october-20-takeout-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Citizens takeout happened October 20: November 5 deadline in Sunny Isles Beach
+            </Link>
+            {" · "}
+            <Link
               href="/resources/citizens-takeout-offer-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >
