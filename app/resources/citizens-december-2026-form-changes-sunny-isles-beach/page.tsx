@@ -673,9 +673,14 @@ export default function CitizensDecember2026FormChangesArticle() {
                   desc: "The $400k rule and 2027 deadline — why you had to buy flood before this form could use it against a wind claim.",
                 },
                 {
+                  label: "October 20 Citizens Takeout in Sunny Isles Beach (2026)",
+                  href: "/resources/citizens-october-20-takeout-sunny-isles-beach-2026",
+                  desc: "The assumption already ran. If you stayed, December 1 forms are still a different Citizens bulletin.",
+                },
+                {
                   label: "Got a Citizens Takeout Letter?",
                   href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026",
-                  desc: "October 5 choice deadline for the October 20 assumption — a different letter from a 12-26 form.",
+                  desc: "The September 4 how-to for the 20% rule — a different letter from a 12-26 form.",
                 },
                 {
                   label: "Homeowners Insurance in Sunny Isles Beach",

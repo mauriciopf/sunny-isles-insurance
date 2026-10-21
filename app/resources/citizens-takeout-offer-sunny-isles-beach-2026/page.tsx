@@ -585,6 +585,11 @@ export default function CitizensTakeoutSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "October 20 Citizens Takeout in Sunny Isles Beach (2026)",
+                  href: "/resources/citizens-october-20-takeout-sunny-isles-beach-2026",
+                  desc: "The calendar after the date: assumption mail this week, and the November 5 deadline still open.",
+                },
+                {
                   label: "Citizens December 2026 Form Changes in Sunny Isles Beach",
                   href: "/resources/citizens-december-2026-form-changes-sunny-isles-beach",
                   desc: "If you stay with Citizens past December 1, wind coverage can fail if required flood lapses — compare that condition on a takeout form too.",

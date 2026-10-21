@@ -723,9 +723,14 @@ export default function JosephineHurricaneDeductibleSunnyIslesBeach2026Article()
                   desc: "The Dec. 1 wind-for-flood condition is a December HO-3 story, not this week’s deductible test.",
                 },
                 {
+                  label: "October 20 Citizens Takeout in Sunny Isles Beach (2026)",
+                  href: "/resources/citizens-october-20-takeout-sunny-isles-beach-2026",
+                  desc: "Assumption mail is this week’s file. A 40% Josephine outlook is not a reason to leave the envelope unopened.",
+                },
+                {
                   label: "Got a Citizens Takeout Letter?",
                   href: "/resources/citizens-takeout-offer-sunny-isles-beach-2026",
-                  desc: "October 20 assumption is tomorrow. The Oct. 5 choice deadline has passed.",
+                  desc: "The September 4 how-to: 20% rule, silence, and HO-6 worksheets. October 5 has passed.",
                 },
                 {
                   label: "Sunny Isles Beach Insurance Guide",
