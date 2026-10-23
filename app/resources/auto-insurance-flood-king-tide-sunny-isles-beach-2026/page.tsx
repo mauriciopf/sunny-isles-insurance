@@ -510,6 +510,11 @@ export default function AutoInsuranceKingTideFloodSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Coastal Flood Advisory This Weekend in Sunny Isles Beach (2026)",
+                  href: "/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026",
+                  desc: "The advisory is in force through Saturday. A soaked car this weekend is still comprehensive — Josephine did not change that.",
+                },
+                {
                   label: "Josephine vs Hurricane Deductible in Sunny Isles Beach (2026)",
                   href: "/resources/josephine-hurricane-deductible-sunny-isles-beach-2026",
                   desc: "This week’s swell still puts a soaked 33160 car on comprehensive — naming Josephine does not move it to HO-3.",

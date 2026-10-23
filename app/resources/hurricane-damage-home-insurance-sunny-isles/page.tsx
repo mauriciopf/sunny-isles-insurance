@@ -472,6 +472,11 @@ export default function HurricaneDamageHomeInsuranceArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Coastal Flood Advisory This Weekend in Sunny Isles Beach (2026)",
+                  href: "/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026",
+                  desc: "NWS Miami upgraded 33160 to a Coastal Flood Advisory. Josephine went post-tropical off Nantucket. The hurricane deductible never started.",
+                },
+                {
                   label: "Josephine vs Hurricane Deductible in Sunny Isles Beach (2026)",
                   href: "/resources/josephine-hurricane-deductible-sunny-isles-beach-2026",
                   desc: "A 40% subtropical chance is not a Florida hurricane warning. How the statutory deductible actually starts.",
