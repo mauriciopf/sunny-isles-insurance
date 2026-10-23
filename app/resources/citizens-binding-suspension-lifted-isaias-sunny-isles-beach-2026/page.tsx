@@ -656,6 +656,11 @@ export default function CitizensBindingSuspensionLiftedIsaiasArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Coastal Flood Advisory This Weekend in Sunny Isles Beach (2026)",
+                  href: "/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026",
+                  desc: "A Coastal Flood Advisory is still not a tropical-storm watch. The October 10 lift remains the last bind bulletin.",
+                },
+                {
                   label: "Hurricane Isaias Binding Freeze in Sunny Isles Beach (2026)",
                   href: "/resources/citizens-binding-suspension-isaias-sunny-isles-beach-2026",
                   desc: "The October 7 statewide pause this lift closed. Read why a Panhandle warning froze 33160 in the first place.",

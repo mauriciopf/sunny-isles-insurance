@@ -658,6 +658,11 @@ export default function JosephineHurricaneDeductibleSunnyIslesBeach2026Article()
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Coastal Flood Advisory This Weekend in Sunny Isles Beach",
+                  href: "/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026",
+                  desc: "Josephine was named, then went post-tropical off Nantucket. NWS Miami upgraded 33160 to a Coastal Flood Advisory. The deductible never started.",
+                },
+                {
                   label: "Does Home Insurance Cover Hurricane Damage?",
                   href: "/resources/hurricane-damage-home-insurance-sunny-isles",
                   desc: "The wind vs surge vs flood how-to this deductible-trigger page does not rewrite.",
