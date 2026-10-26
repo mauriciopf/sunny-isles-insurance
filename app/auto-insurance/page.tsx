@@ -139,6 +139,13 @@ export default function AutoInsurancePage() {
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Coastal Flood Warning this week: a soaked 33160 car is still comprehensive
+            </Link>
+            {" · "}
+            <Link
               href="/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

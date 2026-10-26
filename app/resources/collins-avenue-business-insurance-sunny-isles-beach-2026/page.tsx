@@ -549,6 +549,11 @@ export default function CollinsAvenueBusinessInsuranceArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Coastal Flood Warning This Week in Sunny Isles Beach (2026)",
+                  href: "/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026",
+                  desc: "NWS Miami’s warning lists inundation of businesses. A Collins Avenue BOP still does not pay salt water.",
+                },
+                {
                   label: "Short-Term Rental Insurance in Sunny Isles Beach (2026)",
                   href: "/resources/short-term-rental-insurance-sunny-isles-beach-2026",
                   desc: "A listed condo is a lodging file. A Collins Avenue storefront BOP is still this page.",

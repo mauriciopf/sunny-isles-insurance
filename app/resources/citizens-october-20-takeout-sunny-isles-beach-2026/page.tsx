@@ -743,6 +743,11 @@ export default function CitizensOctober20TakeoutSunnyIslesBeach2026Article() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Coastal Flood Warning This Week in Sunny Isles Beach (2026)",
+                  href: "/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026",
+                  desc: "The Coastal Flood Warning is still not a takeout letter. November 5 remains the next choice deadline.",
+                },
+                {
                   label: "Coastal Flood Advisory This Weekend in Sunny Isles Beach",
                   href: "/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026",
                   desc: "Josephine was named after the October 20 assumption. The Coastal Flood Advisory is still not a takeout letter.",

@@ -320,6 +320,7 @@ export default function CondoInsurancePage() {
               </p>
               <div className="space-y-3">
                 {[
+                  { label: "Coastal Flood Warning and King Tide in Sunny Isles Beach (2026)", href: "/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026" },
                   { label: "Coastal Flood Advisory and King Tide in Sunny Isles Beach (2026)", href: "/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026" },
                   { label: "October 20 Citizens Takeout in Sunny Isles Beach (2026)", href: "/resources/citizens-october-20-takeout-sunny-isles-beach-2026" },
                   { label: "Josephine vs Hurricane Deductible in Sunny Isles Beach (2026)", href: "/resources/josephine-hurricane-deductible-sunny-isles-beach-2026" },

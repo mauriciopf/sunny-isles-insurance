@@ -641,6 +641,11 @@ export default function CoastalFloodAdvisoryKingTideSunnyIslesBeach2026Article()
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Coastal Flood Warning This Week in Sunny Isles Beach (2026)",
+                  href: "/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026",
+                  desc: "Monday’s upgrade from advisory to warning. Significant flooding through Wednesday is still a flood file, not a hurricane deductible.",
+                },
+                {
                   label: "If Josephine Forms, Does a Hurricane Deductible Apply?",
                   href: "/resources/josephine-hurricane-deductible-sunny-isles-beach-2026",
                   desc: "The October 19 statutory how-to this follow-up does not rewrite. Josephine was named. Florida never posted a watch.",

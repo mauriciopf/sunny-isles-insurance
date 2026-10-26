@@ -65,6 +65,13 @@ export default function BusinessInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Coastal Flood Warning this week: a Collins Avenue storefront still needs flood outside the BOP
+            </Link>
+            {" · "}
+            <Link
               href="/resources/short-term-rental-insurance-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

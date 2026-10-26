@@ -510,6 +510,11 @@ export default function AutoInsuranceKingTideFloodSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Coastal Flood Warning This Week in Sunny Isles Beach (2026)",
+                  href: "/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026",
+                  desc: "The warning is in force through Wednesday. A soaked car this week is still comprehensive — a 40 mph wind advisory does not change that.",
+                },
+                {
                   label: "Coastal Flood Advisory This Weekend in Sunny Isles Beach (2026)",
                   href: "/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026",
                   desc: "The advisory is in force through Saturday. A soaked car this weekend is still comprehensive — Josephine did not change that.",

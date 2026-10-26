@@ -128,6 +128,13 @@ export default function HomeownersInsurancePage() {
           <p className="mt-6 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Coastal Flood Warning this week: significant king-tide flooding is still a flood file
+            </Link>
+            {" · "}
+            <Link
               href="/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >

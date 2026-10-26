@@ -656,6 +656,11 @@ export default function CitizensBindingSuspensionLiftedIsaiasArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Coastal Flood Warning This Week in Sunny Isles Beach (2026)",
+                  href: "/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026",
+                  desc: "A Coastal Flood Warning and a wind advisory are still not a tropical-storm watch. The October 10 lift remains the last bind bulletin.",
+                },
+                {
                   label: "Coastal Flood Advisory This Weekend in Sunny Isles Beach (2026)",
                   href: "/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026",
                   desc: "A Coastal Flood Advisory is still not a tropical-storm watch. The October 10 lift remains the last bind bulletin.",

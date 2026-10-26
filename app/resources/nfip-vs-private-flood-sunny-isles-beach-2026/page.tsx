@@ -588,6 +588,11 @@ export default function NfipVsPrivateFloodSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Coastal Flood Warning This Week in Sunny Isles Beach (2026)",
+                  href: "/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026",
+                  desc: "NWS Miami upgraded 33160 from an advisory to a warning. A 30-day wait from October 26 misses Tuesday’s peak.",
+                },
+                {
                   label: "Coastal Flood Advisory This Weekend in Sunny Isles Beach (2026)",
                   href: "/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026",
                   desc: "NWS Miami upgraded 33160 from a flood statement to an advisory. A 30-day wait from October 23 misses this weekend’s peak.",

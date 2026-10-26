@@ -544,6 +544,11 @@ export default function AdditionalLivingExpensesSunnyIslesArticle() {
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 {
+                  label: "Coastal Flood Warning This Week in Sunny Isles Beach (2026)",
+                  href: "/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026",
+                  desc: "King-tide flood under a warning is still not wind ALE. NFIP’s dwelling form still has no hotel bill.",
+                },
+                {
                   label: "Coastal Flood Advisory This Weekend in Sunny Isles Beach (2026)",
                   href: "/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026",
                   desc: "King-tide flood this weekend is still not wind ALE. NFIP’s dwelling form still has no hotel bill.",

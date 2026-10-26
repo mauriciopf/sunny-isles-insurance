@@ -159,6 +159,7 @@ export default function FloodInsuranceBasicsArticle() {
             <h2 className="text-xl font-bold text-navy-900 mb-5">Related Coverage &amp; Resources</h2>
             <div className="grid sm:grid-cols-2 gap-4">
               {[
+                { label: "Coastal Flood Warning This Week in Sunny Isles Beach (2026)", href: "/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026", desc: "NWS Miami upgraded ZIP 33160 to a Coastal Flood Warning through Wednesday. Significant flooding is still flood, not HO-3." },
                 { label: "Coastal Flood Advisory This Weekend in Sunny Isles Beach (2026)", href: "/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026", desc: "NWS Miami upgraded ZIP 33160 to a Coastal Flood Advisory. Josephine went post-tropical off Nantucket. Standing salt water is still flood." },
                 { label: "Flood Insurance in Sunny Isles Beach", href: "/flood-insurance", desc: "Explore flood insurance options and request a quote." },
                 { label: "Josephine vs Hurricane Deductible in Sunny Isles Beach (2026)", href: "/resources/josephine-hurricane-deductible-sunny-isles-beach-2026", desc: "This week’s East Coast swell is still a flood file. A 40% subtropical chance does not rewrite HO-3 exclusions." },

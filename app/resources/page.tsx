@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from "@/lib/structured-data";
 export const metadata: Metadata = buildMetadata({
   title: "Insurance Resources | Sunny Isles Beach Insurance Guides",
   description:
-    "Educational guides and answers to common Florida insurance questions — whether NWS Miami’s Oct. 23 Coastal Flood Advisory and the Oct. 24–30 king-tide peak are a flood file after Josephine went post-tropical off Nantucket, whether Citizens’ Oct. 20 takeout already moved a Sunny Isles Beach HO-6 and the Nov. 5 choice deadline still open, whether a subtropical Josephine triggers a Florida hurricane deductible in ZIP 33160, OIR’s Oct. 11 HO-4 rate cut for about 122,000 renters policies, short-term vacation rental licenses and guest liability after Oct. 1 enforcement, Citizens lifting its Isaias binding freeze on Oct. 10 so Sunny Isles Beach can bind again, the Oct. 7 statewide pause during the first Atlantic hurricane of 2026, ordinance or law 25% vs 50% rebuild coverage in Miami-Dade’s HVHZ, Citizens December 2026 form changes (wind coverage if flood lapses, 14-day authorization, short-term rentals), My Safe Florida Home and Condo Pilot grants in HVHZ 33160, snowbird seasonal occupancy and Florida’s 90-day PIP rule, additional living expenses vs NFIP’s hotel gap, September 2026 homeowners rate cuts, auto comprehensive vs king-tide flooding, NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
+    "Educational guides and answers to common Florida insurance questions — whether NWS Miami’s Oct. 26 Coastal Flood Warning through Wednesday and Tuesday’s king-tide peak are a flood file after a 40 mph wind advisory, whether Friday’s Oct. 23 Coastal Flood Advisory already closed Josephine as a deductible, whether Citizens’ Oct. 20 takeout already moved a Sunny Isles Beach HO-6 and the Nov. 5 choice deadline still open, whether a subtropical Josephine triggers a Florida hurricane deductible in ZIP 33160, OIR’s Oct. 11 HO-4 rate cut for about 122,000 renters policies, short-term vacation rental licenses and guest liability after Oct. 1 enforcement, Citizens lifting its Isaias binding freeze on Oct. 10 so Sunny Isles Beach can bind again, the Oct. 7 statewide pause during the first Atlantic hurricane of 2026, ordinance or law 25% vs 50% rebuild coverage in Miami-Dade’s HVHZ, Citizens December 2026 form changes (wind coverage if flood lapses, 14-day authorization, short-term rentals), My Safe Florida Home and Condo Pilot grants in HVHZ 33160, snowbird seasonal occupancy and Florida’s 90-day PIP rule, additional living expenses vs NFIP’s hotel gap, September 2026 homeowners rate cuts, auto comprehensive vs king-tide flooding, NFIP vs private flood, special assessments vs HO-6 loss assessment, Collins Avenue business insurance, Citizens’ 2026 flood mandate, renters HO-4 and contents flood, wind mitigation credits, Citizens takeout letters, 2026 condo costs, auto options, hurricane vs. flood coverage, HO-6, auto PIP, and more. From Sunny Isles Insurance in Sunny Isles Beach.",
   path: "/resources",
 });
 
@@ -16,6 +16,15 @@ const breadcrumb = [
 ];
 
 const articles = [
+  {
+    slug: "coastal-flood-warning-king-tide-sunny-isles-beach-2026",
+    title:
+      "Coastal Flood Warning in Sunny Isles Beach This Week: Significant King-Tide Flooding Is Still a Flood File",
+    description:
+      "NWS Miami upgraded Coastal Miami-Dade to a Coastal Flood Warning through Wednesday. Tuesday is the east-coast annual peak. How ZIP 33160 should read significant flooding, a 40 mph wind advisory, and a quiet Atlantic.",
+    category: "Flood Insurance",
+    readTime: "10 min read",
+  },
   {
     slug: "coastal-flood-advisory-king-tide-sunny-isles-beach-2026",
     title:

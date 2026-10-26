@@ -59,6 +59,13 @@ export default function RentersInsurancePage() {
           <p className="mt-8 text-sm text-navy-500">
             Related reading:{" "}
             <Link
+              href="/resources/coastal-flood-warning-king-tide-sunny-isles-beach-2026"
+              className="text-ocean-500 hover:underline font-medium"
+            >
+              Coastal Flood Warning this week: HO-4 still does not cover king-tide flood
+            </Link>
+            {" · "}
+            <Link
               href="/resources/coastal-flood-advisory-king-tide-sunny-isles-beach-2026"
               className="text-ocean-500 hover:underline font-medium"
             >
